@@ -6,7 +6,7 @@
 1. **Python Basics 2** - for, while, if
 
    - [Lecture](courses/Basics_1-program_flow_and_functions.ipynb)
-   - [Lab task](tasks/EN_Ceasar_cipher encryption.ipynb)
+   - [Lab task](tasks/EN_Ceasar_cipher_encryption.ipynb)
 
 1. **Python Basics 3** - functions, classes
 
