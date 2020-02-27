@@ -1,4 +1,14 @@
-# Python for scientific computation and control
+# Python courseware
+
+
+## E375004-Python-for-Scientific-Computations-and-Control 
+
+
+
+
+
+
+
 
 This projects was originaly developed at CTU for students of automatic control. It has no ambition to be full python course, but more like brief introduction followed by useful tools for automatic control and other disciplines connected to this topic.
 
