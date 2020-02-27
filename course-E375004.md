@@ -5,10 +5,13 @@
 
 1. **Python Basics 2** - for, while, if
 
-   - [courses/Basics_1-program_flow_and_functions.ipynb](courses/Basics_1-program_flow_and_functions.ipynb)
+   - [Basics_1-program_flow_and_functions.ipynb](courses/Basics_1-program_flow_and_functions.ipynb)
    - asdfas
 
 1. **Python Basics 3** - functions, classes
+
+   - [courses/Basics_2-functions_and_classes.ipynb](courses/Basics_2-functions_and_classes.ipynb)
+   - asdfas
 
 1. **Game like simulations** - Pygame
 
