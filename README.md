@@ -1,26 +1,10 @@
 # Python courseware
 
 
-## [E375004-Python-for-Scientific-Computations-and-Control](E375004.md)
+## [E375004-Python-for-Scientific-Computations-and-Control](course-E375004.md)
 
+## [2375004-Python-pro-vedecke-vypocty-a-rizeni](course-2375004.md)
 
-
-
-[Click here](course-2375004.md)
-
-
-
-
-
-
-
-This projects was originaly developed at CTU for students of automatic control. It has no ambition to be full python course, but more like brief introduction followed by useful tools for automatic control and other disciplines connected to this topic.
-
-## Getting Started
-
-We do not presuppose any knowledge about python, however we do presuppose some basic knowledge from field of algorithmization (e.g., sorting algorithms) and mathematics (e.g., linear algebra and differential equatins).
-
-TODO
 
 ### Prerequisites
 
