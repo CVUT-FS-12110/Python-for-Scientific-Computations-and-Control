@@ -5,13 +5,13 @@
 
 1. **Python Basics 2** - for, while, if
 
-   - [Lecture](courses/Basics_1-program_flow_and_functions.ipynb)
-   - [Lab task](tasks/EN_Ceasar_cipher_encryption.ipynb)
+   - [Lecture](courses/Basics-program_flow_and_functions.ipynb)
+   - [Lab task 1](tasks/EN_Ceasar_cipher_encryption.ipynb)
 
 1. **Python Basics 3** - functions, classes
 
-   - [Lecture](courses/Basics_2-functions_and_classes.ipynb)
-   - [Lab task](tasks/EN_game_simulation-rock_scissors_paper.ipynb)
+   - [Lecture](courses/Basics-functions_and_classes.ipynb)
+   - [Lab task 2](tasks/EN_game_simulation-rock_scissors_paper.ipynb)
 
 1. **Game like simulations** - Pygame
 
