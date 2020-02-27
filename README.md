@@ -1,7 +1,9 @@
 # Python courseware
 
 
-## E375004-Python-for-Scientific-Computations-and-Control 
+## [E375004-Python-for-Scientific-Computations-and-Control](E375004.md)
+
+
 
 
 [Click here](course-2375004.md)
