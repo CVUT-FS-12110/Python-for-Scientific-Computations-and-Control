@@ -1,12 +1,12 @@
 # Python-for-Scientific-Computations-and-Control 
 ## Codename: E375004
 
-
 1. **Python Basics 1** - installation, IDEs, data types
 
 1. **Python Basics 2** - for, while, if
 
-  asdfasdfasd
+   - (courses/Basics_1-program_flow_and_functions.ipynb)[courses/Basics_1-program_flow_and_functions.ipynb]
+   - asdfas
 
 1. **Python Basics 3** - functions, classes
 
