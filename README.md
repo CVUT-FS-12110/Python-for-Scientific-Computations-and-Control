@@ -1,9 +1,9 @@
 # Python courseware
 
 
-## [E375004-Python-for-Scientific-Computations-and-Control](course-E375004.md)
+## [E375004 - Python for Scientific Computations and Control](course-E375004.md)
 
-## [2375004-Python-pro-vedecke-vypocty-a-rizeni](course-2375004.md)
+## [2375004 - Python pro vedecke vypocty a rizeni](course-2375004.md)
 
 
 ### Prerequisites
