@@ -15,6 +15,9 @@
 
 1. **Game like simulations** - Pygame
 
+   - [Lecture](courses/pygame_bouncy_balls.py)
+   - [Lab task 2](tasks/EN_poker_test.ipynb)
+
 1. **Html parsing, webscraping and server aplications** -Requests, Beautifulsoup, SimpleHTTPServer
 
 1. **Server aplications** - flask, SQLAlchemy, jinja, html
