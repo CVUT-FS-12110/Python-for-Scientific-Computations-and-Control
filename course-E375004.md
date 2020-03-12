@@ -3,7 +3,7 @@
 
 1. **Python Basics 1** - installation, IDEs, data types
 
-1. **Python Basics 2** - for, while, if
+2. **Python Basics 2** - for, while, if
 
    - [Lecture](courses/Basics-program_flow_and_functions.ipynb)
    - [Lab task 1](tasks/EN_Ceasar_cipher_encryption.ipynb)
@@ -19,6 +19,24 @@
    - [Lab task 3](tasks/EN_poker_test.ipynb)
 
 1. **Html parsing, webscraping and server aplications** -Requests, Beautifulsoup, SimpleHTTPServer
+
+   - What you should know before (general knowledge / internet basics):
+        - [HTTP protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)         
+        - [JSON](https://en.wikipedia.org/wiki/JSON)
+        - [HTML](https://en.wikipedia.org/wiki/HTML)
+   
+     You need only basic knowledge of these (elementary/high school level).
+
+   - Lecture
+        - [Simple http server](courses/http-simple-server.py),
+          additional external resources (optional):
+          [https://www.youtube.com/watch?v=hFNZ6kdBgO0](https://www.youtube.com/watch?v=hFNZ6kdBgO0)
+        - [Python http requests](courses/http-requests.py),
+          the best additional resources is this external documentation:
+          [https://requests.readthedocs.io/en/master/](https://requests.readthedocs.io/en/master/)
+        - [HTML and JSON parsing](courses/parsing-html_json.py) (you do not need to understand to fully, focus on work with JSON)
+   
+   - [Lab task 4](tasks/EN_poker_test.ipynb)
 
 1. **Server aplications** - flask, SQLAlchemy, jinja, html
 
