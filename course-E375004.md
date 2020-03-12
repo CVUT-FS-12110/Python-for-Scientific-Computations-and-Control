@@ -28,13 +28,13 @@
      You need only basic knowledge of these (elementary/high school level).
 
    - Lecture
-        - [Simple http server](courses/http-simple-server.py),
+        - [Simple http server](courses/http-simple_server.py),
           additional external resources (optional):
           [https://www.youtube.com/watch?v=hFNZ6kdBgO0](https://www.youtube.com/watch?v=hFNZ6kdBgO0)
-        - [Python http requests](courses/http-requests.py),
+        - [Python http requests](courses/http-requests.ipynb),
           the best additional resources is this external documentation:
           [https://requests.readthedocs.io/en/master/](https://requests.readthedocs.io/en/master/)
-        - [HTML and JSON parsing](courses/parsing-html_json.py) (you do not need to understand to fully, focus on work with JSON)
+        - [HTML and JSON parsing](courses/parsing-html_json.ipynb) (you do not need to understand to fully, focus on work with JSON)
    
    - [Lab task 4](tasks/EN_poker_test.ipynb)
 
