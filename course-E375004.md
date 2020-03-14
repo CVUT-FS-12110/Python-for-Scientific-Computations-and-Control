@@ -36,7 +36,7 @@
           [https://requests.readthedocs.io/en/master/](https://requests.readthedocs.io/en/master/)
         - [HTML and JSON parsing](courses/parsing-html_json.ipynb) (you do not need to understand to fully, focus on work with JSON)
    
-   - [Lab task 4](tasks/EN_poker_test.ipynb)
+   - [Lab task 4](tasks/EN_ISS_location_logger.ipynb)
 
 1. **Server aplications** - flask, SQLAlchemy, jinja, html
 
