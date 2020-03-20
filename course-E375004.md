@@ -53,6 +53,7 @@
           [https://numpy.org/devdocs/user/quickstart.html](https://numpy.org/devdocs/user/quickstart.html)
         - Matplotlib documentation:
           [https://matplotlib.org/3.2.0/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py](https://matplotlib.org/3.2.0/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
+    - [Lab task 6](tasks/EN_numpy_convolution.ipynb)
 
 1. **Server aplications** - flask, SQLAlchemy, jinja, html
 
