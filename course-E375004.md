@@ -51,11 +51,11 @@
 
    - Lecture
         - [NumPy and Matplotlib jupyter notebook](courses/Numpy_lesson.ipynb),
-          external NumPy tutorial (optional):
+        - external NumPy tutorial (optional):
           [https://youtu.be/GB9ByFAIAH4](https://youtu.be/GB9ByFAIAH4)
-          NumPy documentation:
+        - NumPy documentation:
           [https://numpy.org/devdocs/user/quickstart.html](https://numpy.org/devdocs/user/quickstart.html)
-          Matplotlib documentation:
+        - Matplotlib documentation:
           [https://matplotlib.org/3.2.0/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py](https://matplotlib.org/3.2.0/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
 
 1. **Pandas and seaborn** - Data manipulation, statistics, visualisation
