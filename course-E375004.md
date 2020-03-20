@@ -46,7 +46,7 @@
 1. **Numpy and matplotlib** - imports, linear algebra, graphs, plotting
 
    - Lecture
-        - [NumPy and Matplotlib jupyter notebook](courses/Numpy_lesson.ipynb),
+        - [NumPy and Matplotlib jupyter notebook](courses/Numpy_matplotlib.ipynb),
         - external NumPy tutorial (optional):
           [https://youtu.be/GB9ByFAIAH4](https://youtu.be/GB9ByFAIAH4)
         - NumPy documentation:
