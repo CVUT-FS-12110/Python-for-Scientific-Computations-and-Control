@@ -54,10 +54,17 @@
         - Matplotlib documentation:
           [https://matplotlib.org/3.2.0/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py](https://matplotlib.org/3.2.0/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
     - [Lab task 6](tasks/EN_numpy_convolution_filter.ipynb)
+    
+1. **Pandas** - Data manipulation, statistics
+   - Lecture
+        - [Pandas Jupyter notebook](courses/pandas.ipynb)
+        - external pandas tutorial:
+          [https://youtu.be/vmEHCJofslg](https://youtu.be/vmEHCJofslg)
+        - Pandas documentation:
+          [https://pandas.pydata.org/](https://pandas.pydata.org/)
+   - [Lab task 7](tasks/EN_pandas_covid.ipynb)
 
 1. **Server aplications** - flask, SQLAlchemy, jinja, html
-
-1. **Pandas and seaborn** - Data manipulation, statistics, visualisation
 
 1. **Multithreading** - threading, paralel computing
 
