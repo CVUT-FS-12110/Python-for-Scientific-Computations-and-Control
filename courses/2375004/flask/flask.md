@@ -34,8 +34,10 @@ Django je super framework, pro naše účely je ale lepší flask, protože je j
 - [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
 
 ### Tutoriály
-
-
+Na internetu existuje mnoho tutoriálů, nebojte se na některé podívat, jsou dle mého názoru dostačující, doporučuji například:
+    - [Flask Tutorial #1](https://www.youtube.com/watch?v=mqhxxeeTbu0) - velice podobný příklad budeme dělat
+    - TODO
+Nebojte se klidně vybrat jiný, který Vám bude připadat lepší.  
 
 ## Hello world!
 Naše první aplikace bude jenom jeden .py skript:
@@ -70,7 +72,23 @@ Otevřete webový prohlíčeč a zkuste zadat:
 
 Jak server reaguje, a proč?
 
+## HTML, Jinja, bootstrap
+Pokud jste si o flasku něco četly, už víte, že flask obvykle zajišťuje *backend* naší serverové aplikace. To znamená, že flask se stará o to, co běží na straně serveru. V našem případě se flask stará o všechno, co se stane, když pošleme request?
+1. Vygeneruje se *request*:
+    například http://127.0.0.1:5000/home
+2. Flask ví, že když dostane tento request, má spustit funkci *home* (to jsme my naprogramovali)
+3. Funkce *home* vrátí string "Hello world!"
+4. Náš prohlížeč nějak interpretuje (v tomhle případě jako jednoduchý string) to, co dostane zpátky jako odpověd na náš request. 
 
+Perfektní, teď můžeme klidně vrátit HTML stránku, jako string, k tomu slouží funkce [render_template](https://flask.palletsprojects.com/en/1.1.x/api/#flask.render_template) (přečtěte si dokumentaci).
+
+###
+Naše druhá aplikace bude celá složka:
+    - [Odkaz na složku](simpleapp/)
+
+
+*Frontend* je to, co se nám (případně návštěvníkovi z venčí) zobrazí ve webovém prohlížeči.
+V našem případě naše flasková aplikace udělá (spočítá něco, vytvoří graf, vygeneruje HTML stránku a podobně) a pošle to zpátky
 
 
 
