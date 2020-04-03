@@ -72,7 +72,7 @@ Otevřete webový prohlíčeč a zkuste zadat:
 
 Jak server reaguje, a proč?
 
-## HTML, Jinja, bootstrap
+## HTML a Jinja
 Pokud jste si o flasku něco četly, už víte, že flask obvykle zajišťuje *backend* naší serverové aplikace. To znamená, že flask se stará o to, co běží na straně serveru. V našem případě se flask stará o všechno, co se stane, když pošleme request?
 1. Vygeneruje se *request*:
     například http://127.0.0.1:5000/home
@@ -80,16 +80,42 @@ Pokud jste si o flasku něco četly, už víte, že flask obvykle zajišťuje *b
 3. Funkce *home* vrátí string "Hello world!"
 4. Náš prohlížeč nějak interpretuje (v tomhle případě jako jednoduchý string) to, co dostane zpátky jako odpověd na náš request. 
 
-Perfektní, teď můžeme klidně vrátit HTML stránku, jako string, k tomu slouží funkce [render_template](https://flask.palletsprojects.com/en/1.1.x/api/#flask.render_template) (přečtěte si dokumentaci).
+Perfektní, teď můžeme klidně vrátit HTML stránku, stejně jako string, k tomu slouží funkce [render_template](https://flask.palletsprojects.com/en/1.1.x/api/#flask.render_template) (přečtěte si dokumentaci).
 
-###
+### Druhá aplikce - simpleapp
 Naše druhá aplikace bude celá složka:
     - [Odkaz na složku](simpleapp/)
+Teď je důležité, abyste zkopírovali celý obsah složky. Spustíme naši aplikaci s názvem "simpleapp"
 
+```
+python simpleapp.py
+```
 
-*Frontend* je to, co se nám (případně návštěvníkovi z venčí) zobrazí ve webovém prohlížeči.
-V našem případě naše flasková aplikace udělá (spočítá něco, vytvoří graf, vygeneruje HTML stránku a podobně) a pošle to zpátky
+Znovu by se mělo objevit něco jako:
+```
+ * Serving Flask app "simpleapp" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 231-816-225
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+```
 
+Otevřete webový prohlíčeč a zkuste zadat:
+- http://127.0.0.1:5000/home
+
+Porovnejte s tím, když otevřete ve webovém prohlížeci soubor "templates/home.html", liší se nějak?
+
+Nyní zkuste zadat:
+- http://127.0.0.1:5000/jinja/adam
+- http://127.0.0.1:5000/jinja/jan
+
+Porovnejte s tím, když otevřete ve webovém prohlížeci soubor "templates/jinja.html", liší se nějak?
+
+Na druhém příkladu je demonstrovánu, k čemu *Jinja* vlastně je. Dokáže vzít něco (v našem případu string *response*) a vložit ho do html na místo {{ response }} (složené závorky tam jsou proto, aby "jinja věděla co má kam vložit").
 
 
 
