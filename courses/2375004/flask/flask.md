@@ -1,8 +1,9 @@
-# Serverové aplikace
-## flask, SQLAlchemy, jinja, html
+# Serverové aplikace 
+
+## flask, jinja (+ SQLAlchemy a WTForms)
 
 ## Než začneme
-Než začneme, doporučuji vytvořit si prázdné virtuální prostředí (já jsem zvyklý pojmenovávat ho ".venv"):
+Než začneme, doporučuji vytvořit si prázdné virtuální prostředí (já ho obvykle pojmenovávám ".venv"):
 
 ```
 python -m venv .venv
@@ -20,23 +21,25 @@ Nainstalujeme knihovnu flask:
 pip install flask
 ```
 
+Tento postup platí obvykle pro učivatele windows, pokud používáte Ubuntu (či jinou distribuci linux), považuji vás za pokročilé a určitě si vytvořit a aktivovat virtuální prostředí zvládnete.
+
 ## Úvodem
 
 ### Co to vůbec flask je?
 Na internetu bychom se dočetli něco jako: *"Flask is microweb framework for building websites in python"*. My se na to můžeme zatím dívat jako na knihovnu, s jejíž pomocí v pythonu vytvoříme jednoduchou webovou aplikaci.
 
 ### Proč flask a ne django?
-Django je super framework, pro naše účely je ale lepší flask, protože je jednodušší a lehčí. Pravdou ale je, že bychom měli mít povědomí o tom, že to není jedinný framework a že nemusí být nutně ani ten nejlepší.
+Django je super framework, pro naše účely je ale lepší flask, protože je jednodušší a lehčí.
 
-### Věnujte prosím pozornost oficiálním stránkám
+### Věnujte prosím pozornost oficiálním stránkám (a hlavně dokumentaci)
 
-- [Flask](https://flask.palletsprojects.com/en/1.1.x/)
-- [Jinja](https://jinja.palletsprojects.com/en/2.11.x/)
+- [Flask](https://flask.palletsprojects.com/)
+- [Jinja](https://jinja.palletsprojects.com/)
 
 ### Tutoriály
 Na internetu existuje mnoho tutoriálů, nebojte se na některé podívat, jsou dle mého názoru dostačující, doporučuji například:
-    - [Flask Tutorial #1](https://www.youtube.com/watch?v=mqhxxeeTbu0) - velice podobný příklad budeme dělat také
-Nebojte se klidně vybrat jiný, který Vám bude připadat lepší.  
+  - [Flask Tutorial #1](https://www.youtube.com/watch?v=mqhxxeeTbu0) - velice podobný příklad budeme dělat také
+Nebojte se klidně vybrat jiný, který Vám bude připadat lepší. 
 
 ## Hello world!
 Naše první aplikace bude jenom jeden .py skript:
@@ -120,6 +123,8 @@ Jinja samozřejmě umí mnohem, mnohem víc, viz oficialní dokumentace.
 
 ## Domácí úkol
 
+Následující domácí úkol je sice kvůli samostudiu obtížnější, ale schválně jsem ho volil tak, abyste velmi podobné řešení nalezli na internetu. Prosím, pokuste se to nejdříve nastudovat a vyřešit sami. Pokud Vám to nepůjde, zrecyklujte nějaké řešení na internetu, převeďte ho do češtiny a hlavně se ho snažte pochopit.
+
 Doma si nastudujte:
   - [SQLAlchemy](https://www.sqlalchemy.org/) a pojem **ORM**, klasické SQL příkazy nebudete potřebovat, ale můžete si osvěžit, jak SQL datábaze funguje
   - [WTForms](https://wtforms.readthedocs.io/en/stable/) (formuláře a jak fungují)
@@ -132,12 +137,3 @@ Naprogramujte webovou aplikaci **sklad** s pomocí knihoven flask, SQLAlchemy a 
   - (volitelné) ke každé položce přidejte i tlačítko **DELETE**, která danou položku odstraní.
 
 I když je to proti konvencím, prosím, naprogramujte celou aplikaci do **jednoho skriptu**, lépe se to prochází a kontroluje.
-
-
-
-
-
-
-
-
-
