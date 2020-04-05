@@ -35,8 +35,7 @@ Django je super framework, pro naše účely je ale lepší flask, protože je j
 
 ### Tutoriály
 Na internetu existuje mnoho tutoriálů, nebojte se na některé podívat, jsou dle mého názoru dostačující, doporučuji například:
-    - [Flask Tutorial #1](https://www.youtube.com/watch?v=mqhxxeeTbu0) - velice podobný příklad budeme dělat
-    - TODO
+    - [Flask Tutorial #1](https://www.youtube.com/watch?v=mqhxxeeTbu0) - velice podobný příklad budeme dělat také
 Nebojte se klidně vybrat jiný, který Vám bude připadat lepší.  
 
 ## Hello world!
@@ -82,7 +81,7 @@ Pokud jste si o flasku něco četly, už víte, že flask obvykle zajišťuje *b
 
 Perfektní, teď můžeme klidně vrátit HTML stránku, stejně jako string, k tomu slouží funkce [render_template](https://flask.palletsprojects.com/en/1.1.x/api/#flask.render_template) (přečtěte si dokumentaci).
 
-### Druhá aplikce - simpleapp
+### Druhá aplikace - simpleapp
 Naše druhá aplikace bude celá složka:
     - [Odkaz na složku](simpleapp/)
 Teď je důležité, abyste zkopírovali celý obsah složky. Spustíme naši aplikaci s názvem "simpleapp"
@@ -115,7 +114,26 @@ Nyní zkuste zadat:
 
 Porovnejte s tím, když otevřete ve webovém prohlížeci soubor "templates/jinja.html", liší se nějak?
 
-Na druhém příkladu je demonstrovánu, k čemu *Jinja* vlastně je. Dokáže vzít něco (v našem případu string *response*) a vložit ho do html na místo {{ response }} (složené závorky tam jsou proto, aby "jinja věděla co má kam vložit").
+Na druhém příkladu je demonstrováno, k čemu *Jinja* vlastně je. Dokáže vzít něco (v našem případu string *response*) a vložit ho do html na místo {{ response }} (složené závorky tam jsou proto, aby "jinja věděla co má kam vložit").
+
+Jinja samozřejmě umí mnohem, mnohem víc, viz oficialní dokumentace.
+
+## Domácí úkol
+
+Doma si nastudujte:
+  - [SQLAlchemy](https://www.sqlalchemy.org/) a pojem **ORM**, klasické SQL příkazy nebudete potřebovat, ale můžete si osvěžit, jak SQL datábaze funguje
+  - [WTForms](https://wtforms.readthedocs.io/en/stable/) (formuláře a jak fungují)
+  - [Bootstrap](https://getbootstrap.com/) (volitelné, pouze koho zajímá i frontend aplikace a chce lepší design)
+
+Naprogramujte webovou aplikaci **sklad** s pomocí knihoven flask, SQLAlchemy a WTForms (případně dalších):
+  - Tato aplikace bude obsahovat formulář s potvrzovacím tlačítkem.
+  - Pomocí formuláře budete moct přidat do skladu (SQL databáze) položku, každá položka bude reprezentována minimálně **jménem** a **počtem kusů** (můžete přidat i více, například materiál, datum zařazení do skladu, ...)
+  - Po přidání položky do skladu se pod formulářen aktualizuje HTML tabulka, ve které budou vidět všechny položky skladu (je to domácí úkol, předpokládejme, že tam nebudete zadávat více než pár položek)
+  - (volitelné) ke každé položce přidejte i tlačítko **DELETE**, která danou položku odstraní.
+
+I když je to proti konvencím, prosím, naprogramujte celou aplikaci do **jednoho skriptu**, lépe se to prochází a kontroluje.
+
+
 
 
 
