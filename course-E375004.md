@@ -65,6 +65,7 @@
    - [Lab task 7](tasks/EN_pandas_covid.ipynb)
 
 1. **Server aplications** - flask, SQLAlchemy, jinja, html
+   - [Lecture and task](courses/E375004/flask/flask.md)
 
 1. **Multithreading** - threading, paralel computing
 
