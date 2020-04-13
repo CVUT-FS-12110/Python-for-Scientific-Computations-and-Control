@@ -1,6 +1,4 @@
-# Optimalizace
-
-## 
+# Optimalizace - cvxpy
 
 ## Než začneme
 
@@ -49,7 +47,7 @@ Náš první příklad bude notorická úloha na optimalizaci složení psích g
 
 -[příklad 2 - psí granule](granule.ipynb)
 
-## Příklad 3 - kvadratický problém
+## Příklad 3 - Optimalizace bloku plynové elektrárny
 
 V následujícím příkladu bude naším úkolem optimalizovat časový průběh (24 hodin) výkonu bloku plynové elektrárny tak, abychom utržili co nejvíce peněz.
 
