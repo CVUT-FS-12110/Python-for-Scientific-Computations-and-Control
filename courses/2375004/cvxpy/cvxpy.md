@@ -39,5 +39,18 @@ První úloha bude velmi jednoduchá. Ve skutečnosti nebudete potřebovat nic v
 - [příklad 1 - krabičky](boxes.ipynb)
 
 
-## Příklad 2 - začínáme s cvxpy
+## Příklad 2 - začínáme s cvxpy (lineární programování)
 
+Lineární programovaní je velmi jednoduchým nástrojem pro optimalizaci problémů, které se dají v jazyce LP formulovat. Doporučuji anglickou wikipedii a samozřejmě dokumentaci:
+- [wiki](https://en.wikipedia.org/wiki/Linear_programming)
+- [cvxpy - dokumentace](https://www.cvxpy.org/) 
+
+Náš první příklad bude notorická úloha na optimalizaci složení psích granulí. Knihovnu cvxpy **nelze** používat na našem jupyter serveru. Musíte si nainstalovat knihovnu do lokálního virtuální prostředí. Pokud chcete používat jupyter lab i doma, stačí si ho doinstalovat také do virtuálního prostředí a spustit na svém počítači.
+
+-[příklad 2 - psí granule](granule.ipynb)
+
+## Příklad 3 - kvadratický problém
+
+V následujícím příkladu bude naším úkolem optimalizovat časový průběh (24 hodin) výkonu bloku plynové elektrárny tak, abychom utržili co nejvíce peněz.
+
+-[příklad 2 - blok plynové elektrárny](blok.ipynb)
