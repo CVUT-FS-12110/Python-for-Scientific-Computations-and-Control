@@ -32,5 +32,11 @@ Typicky se optimalizace už dlouhou dobu používá při jakémkoli plánování
 
 ## Úkol 1 - Svařované krabičky
 
+První úloha bude velmi jednoduchá. Ve skutečnosti nebudete potřebovat nic víc, než tužku a papír. My si ale řešení naprogramujeme jako velmi jednoduchý skript, nebudeme zatím potřebovat žádné speciální knihovny.
+
+Máme firmu na výrobu svařovaných krabiček. Výrobce plechů nám dodává plech o šířce *a* a výšce *b*. Naším úkolem je zjistit, jak velké kusy v rozích odstřihnout, abychom maximalizovali objem krabičky. Krabička nemá víko, má jenom dno a čtyři strany.
+
+![sss](./data/boxes.svg)
+
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
