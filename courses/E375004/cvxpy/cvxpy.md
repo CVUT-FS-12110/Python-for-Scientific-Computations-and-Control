@@ -1,4 +1,4 @@
-# Optimalizace - cvxpy
+# Optimalization - cvxpy
 
 ## Before we start
 
