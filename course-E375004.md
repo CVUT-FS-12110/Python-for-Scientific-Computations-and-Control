@@ -68,8 +68,8 @@
    - [Lecture and task](courses/E375004/flask/flask.md)
 
 1. **Optimalization** - linear programming, cvxpy
-   - [Přednáška](courses/E375004/cvxpy/cvxpy.md)
-   - [task](tasks/EN_cvxpy_factory.ipynb)
+   - [Lecture](courses/E375004/cvxpy/cvxpy.md)
+   - [Lam task 9](tasks/EN_cvxpy_factory.ipynb)
 
 1. **Multithreading** - threading, paralel computing
 
