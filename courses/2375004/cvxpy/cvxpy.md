@@ -51,4 +51,4 @@ Náš první příklad bude notorická úloha na optimalizaci složení psích g
 
 V následujícím příkladu bude naším úkolem optimalizovat časový průběh (24 hodin) výkonu bloku plynové elektrárny tak, abychom utržili co nejvíce peněz.
 
--[příklad 2 - blok plynové elektrárny](blok.ipynb)
+-[příklad 3 - blok plynové elektrárny](blok.ipynb)

@@ -67,9 +67,11 @@
 1. **Server aplications** - flask, SQLAlchemy, jinja, html
    - [Lecture and task](courses/E375004/flask/flask.md)
 
-1. **Multithreading** - threading, paralel computing
+1. **Optimalization** - linear programming, cvxpy
+   - [Přednáška](courses/E375004/cvxpy/cvxpy.md)
+   - [task](tasks/EN_cvxpy_factory.ipynb)
 
-1. **Optimalization** - linear programming, scipy, scikit, cvxpy
+1. **Multithreading** - threading, paralel computing
 
 1. **Artifical Inteligence** - Tensorflow, tflearn
 
