@@ -72,6 +72,13 @@
    - [Lam task 9](tasks/EN_cvxpy_factory.ipynb)
 
 1. **Multithreading** - threading, paralel computing
+   - Lecture
+        - [Multithreading Jupyter notebook](courses/Multithreading.ipynb)
+        - external Multithreading tutorial:
+          [https://youtu.be/IEEhzQoKtQU](https://youtu.be/IEEhzQoKtQU)
+        - Multithreading documentation:
+          [https://docs.python.org/3/library/threading.html](https://docs.python.org/3/library/threading.html)
+   - [Lab task 10](tasks/EN_threading.ipynb)
 
 1. **Artifical Inteligence** - Tensorflow, tflearn
 
