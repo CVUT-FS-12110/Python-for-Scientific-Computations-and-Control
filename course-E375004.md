@@ -69,7 +69,7 @@
 
 1. **Optimalization** - linear programming, cvxpy
    - [Lecture](courses/E375004/cvxpy/cvxpy.md)
-   - [Lam task 9](tasks/EN_cvxpy_factory.ipynb)
+   - [Lab task 9](tasks/EN_cvxpy_factory.ipynb)
 
 1. **Multithreading** - threading, paralel computing
    - Lecture
@@ -80,5 +80,7 @@
           [https://docs.python.org/3/library/threading.html](https://docs.python.org/3/library/threading.html)
    - [Lab task 10](tasks/EN_threading.ipynb)
 
-1. **Artifical Inteligence** - Tensorflow, tflearn
+1. **Artificial Intelligence - chapter 1**
+   - [Lecture](courses/E375004/ai_chapter1/ai_chapter1.md)
+   - [Lab task 11](tasks/EN_ai1.ipynb)
 
