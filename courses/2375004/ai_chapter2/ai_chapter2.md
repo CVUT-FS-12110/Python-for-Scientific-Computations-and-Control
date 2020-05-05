@@ -4,14 +4,15 @@
 
 V první kapitole jsme se si ukázali 3 různé jednoduché příklady. Dnešní hodina se bude zabývat pouze *neuronovými sítěmi*. Mějte ovšem na paměti, že umělá inteligence není to samé, jako neuronové sítě. Neuronové sítě jsou pouze podmnožinou.
 
-Díky pythonu je vývoj a implementace neuronovýc sítí velice jednoduchá a programátorsky přítelská. Na pár řádcích kódu je možné implementovat struktury, které jsou poměrně složité a to díky několika užitečným rámcům (*framworks*) jakou jsou například:
+Díky pythonu je vývoj a implementace neuronovýc sítí velice jednoduchá a programátorsky přátelská. Na pár řádcích kódu je možné implementovat struktury, které jsou poměrně složité a to díky několika užitečným rámcům (*framworks*) jakou jsou například:
 - [Keras](https://keras.io/)
 - [Tensorflow](https://www.tensorflow.org/)
 - [PyTorch](https://pytorch.org/)
+
 My budeme využívat *Tensorflow* a částečně i keras (jehož API využívá právě Tensorflow). Uvidíte, že vytvořit a vyzkoušet si model je opravdu jednoduché.
 
 
-## SOM - Samo-organiyační mapy
+## SOM - Samo-organizační mapy
 
 První neuronovou sítí, kterou si ukážeme bude tzv. *SOM* ([odkaz-wiki](https://en.wikipedia.org/wiki/Self-organizing_map)).
 
