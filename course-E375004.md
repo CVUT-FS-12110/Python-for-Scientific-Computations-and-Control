@@ -84,3 +84,7 @@
    - [Lecture](courses/E375004/ai_chapter1/ai_chapter1.md)
    - [Lab task 11](tasks/EN_ai1.ipynb)
 
+1. **Artificial Intelligence - chapter 2**
+   - [Lecture](courses/E375004/ai_chapter2/ai_chapter2.md)
+   - No homework this time!
+

@@ -1,4 +1,4 @@
-# Artificial Intelligence and python - part one
+# Artificial Intelligence and Python - Part One
 
 ## Introduction
 

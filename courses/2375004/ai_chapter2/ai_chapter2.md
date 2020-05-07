@@ -1,4 +1,4 @@
-# Umělá inteligence a python - část první
+# Umělá inteligence a python - část druhá
 
 ## Úvodem
 
