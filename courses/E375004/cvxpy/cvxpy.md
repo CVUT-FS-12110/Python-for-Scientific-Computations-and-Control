@@ -26,7 +26,7 @@ pip install cvxpy
 ## Introduction
 
 
-Optimization is a process of seeking the maximum or minimum of the *objective function *. In reality, those type of problems are all over the place. For example, if you have a company producing paper boxes, you will want as many boxes as possible made from as little paper as possible.
+Optimization is a process of seeking the maximum or minimum of the *objective function*. In reality, those types of problems are all over the place. For example, if you have a company producing paper boxes, you will want as many boxes as possible made from as little paper as possible.
 
 Typically, optimization has been used for a long time in any scheduling tasks(for example, when a coal-fired power plant block should or should not run, when and on what machine to produce some metal parts, to be as fast as possible). There are a lot of tasks, and as future engineers you will sooner or later need optimization in some form.
 
@@ -36,11 +36,18 @@ The first task will be very simple. In fact, you would need nothing more than a 
 
 - [Example 1 - boxes](boxes.ipynb)
 
-## Example 2 - cvxpy (linear programming)
+
+# Linear programming
 
 Linear programming is a very simple tool for optimizing problems that can be formulated in LP language. I recommend the English Wikipedia and of course the official documentation:
 - [wiki](https://en.wikipedia.org/wiki/Linear_programming)
-- [cvxpy - docs](https://www.cvxpy.org/) 
+- [cvxpy - docs](https://www.cvxpy.org/)
+
+If you are interested in lecture, there is also very informative youtube video from MIT courseware, which I highly recommend.
+
+[![15. Linear Programming: LP, reductions, Simplex](https://www.youtube.com/watch?v=WwMz2fJwUCg&t/0.jpg)](https://www.youtube.com/watch?v=WwMz2fJwUCg&t "15. Linear Programming: LP, reductions, Simplex")
+
+## Example 2 - cvxpy (linear programming)
 
 Our first example will be a notorious task in optimizing the composition of dog kibbles. The cvxpy library **can not** be used in our jupyter server. You have to install the library in your local virtual environment. If you want to use jupyter lab at home, just install it also in a virtual environment and run from your command line on local host.
 
