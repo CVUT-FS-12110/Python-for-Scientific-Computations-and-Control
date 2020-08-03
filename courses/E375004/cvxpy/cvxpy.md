@@ -45,7 +45,7 @@ Linear programming is a very simple tool for optimizing problems that can be for
 
 If you are interested in lecture, there is also very informative youtube video from MIT courseware, which I highly recommend.
 
-[![15. Linear Programming: LP, reductions, Simplex](https://www.youtube.com/watch?v=WwMz2fJwUCg&t/0.jpg)](https://www.youtube.com/watch?v=WwMz2fJwUCg&t "15. Linear Programming: LP, reductions, Simplex")
+[![15. Linear Programming: LP, reductions, Simplex](http://img.youtube.com/vi/WwMz2fJwUCg/0.jpg)](https://www.youtube.com/watch?v=WwMz2fJwUCg&t "15. Linear Programming: LP, reductions, Simplex")
 
 ## Example 2 - cvxpy (linear programming)
 
