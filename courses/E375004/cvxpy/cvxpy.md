@@ -58,3 +58,9 @@ Our first example will be a notorious task in optimizing the composition of dog 
 In the following example, our task will be to optimize the day-ahead (24 hours) of the performance of the gas power plant block so that we earn as much money as possible.
 
 -[Example 3 - gas plant block](blok.ipynb)
+
+## Example 4 - Maximizing flow through the network
+
+In this example, our task is to maximize flow through the network. Network is represented as directed graph with one starting node (source) and one ending node (sink).
+
+-[Example 4 - Maximizing flow through the network](flow.ipynb)
