@@ -5,9 +5,6 @@
 
 ### [E375004 - Python for Scientific Computations and Control](course-E375004.md)
 
-### [2375004 - Python pro vědecké výpočty a řízení](course-2375004.md)
-
-
 ## Prerequisites
 
 ### Installing
