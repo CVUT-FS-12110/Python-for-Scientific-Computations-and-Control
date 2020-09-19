@@ -3,6 +3,8 @@
 
 1. **Python Basics 1** - installation, IDEs, data types
 
+   -  [lecture + lab](courses/intro.md)
+
 1. **Python Basics 2** - for, while, if
 
 1. **Python Basics 3** - functions, classes
