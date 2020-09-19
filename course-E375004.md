@@ -15,8 +15,6 @@
 
 1. **Html parsing, webscraping and server aplications** -Requests, Beautifulsoup, SimpleHTTPServer
    
-1. **Idle week**
-
 1. **Numpy and matplotlib** - imports, linear algebra, graphs, plotting
 
 1. **Pandas** - Data manipulation, statistics
