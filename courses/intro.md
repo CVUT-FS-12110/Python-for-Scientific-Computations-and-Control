@@ -22,6 +22,15 @@ This approach is much simpler, however it has some other drawbacks.
 
 All steps above are insanely well documented in the Internet. Feel no shame to use google or youtube as your first resort of help.
 
+
+## Jupyter notebook and other tools
+
+Some Python tasks is possible to solve with online IDE. This tools can be benefical in you want to accompany your code with figures, equations and other sofisticated explanation. The prime example of such a tool is the Jupyter notebook. We will provide content of some lectures as jupyter notebooks, however you do not need to install it or use it if you do not want to. Further reading:
+
+* [Jupyter notebook](https://jupyter.org/) - online IDE that can be installed on your computer to run notebooks locally
+* [Google colab](https://colab.research.google.com/) - free online environment for Google users. No installation required.
+
+
 ## First steps
 
 In case you have no previous knowledge of Python, please study [this page](https://www.w3schools.com/python/python_datatypes.asp) and replicate the examples there in your IDE.
