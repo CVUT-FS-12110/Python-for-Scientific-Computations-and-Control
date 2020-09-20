@@ -1,5 +1,5 @@
 # Python for Scientific Computations and Control 
-## Codename: E375004
+## Codenames: E375004, 2375004
 
 1. week - **Python Basics 1** - installation, IDEs, data types
 
