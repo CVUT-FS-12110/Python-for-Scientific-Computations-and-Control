@@ -25,7 +25,7 @@ All steps above are insanely well documented in the Internet. Feel no shame to u
 
 ## Jupyter notebook and other tools
 
-Some Python tasks is possible to solve with online IDE. This tools can be benefical in you want to accompany your code with figures, equations and other sofisticated explanation. The prime example of such a tool is the Jupyter notebook. We will provide content of some lectures as jupyter notebooks, however you do not need to install it or use it if you do not want to. Further reading:
+Some Python tasks are possible to solve with an online IDE. This tools can be benefical if you want to accompany your code with figures, equations and other sofisticated explanation. The prime example of such a tool is the Jupyter notebook. We will provide content of some lectures as jupyter notebooks, however you do not need to install it or use it if you do not want to. Further reading:
 
 * [Jupyter notebook](https://jupyter.org/) - online IDE that can be installed on your computer to run notebooks locally
 * [Google colab](https://colab.research.google.com/) - free online environment for Google users. No installation required.
