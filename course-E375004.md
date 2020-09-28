@@ -4,7 +4,11 @@
 1. week - **Python Basics 1** - installation, IDEs, data types
 
    - [lecture + lab](courses/intro.md)
-   
-   - task: NO TASK this week, however make sure your Interpreter + IDE is working and you know how to operate it
-   
+   - task: NO TASK this week, however make sure your Interpreter + IDE is working and you know how to operate it 
+   - responsible person: matous.cejnek@fs.cvut.cz
+
+2. **Python Basics 2** - for, while, if, functions
+
+   - study [Lecture](courses/Basics-program_flow_and_functions.ipynb)
+   - task: [Lab task 1](tasks/EN_Ceasar_cipher_encryption.ipynb)
    - responsible person: matous.cejnek@fs.cvut.cz
