@@ -19,3 +19,9 @@
    - study [Lecture](courses/Basics-functions_and_classes.ipynb)
    - task [Lab task 2](tasks/EN_game_simulation-rock_scissors_paper.ipynb)
    - responsible person: matous.cejnek@fs.cvut.cz
+   
+1. **Game like simulations** - Pygame
+
+   - [Lecture](courses/pygame_bouncy_balls.py)
+   - [Lab task 3](tasks/EN_poker_test.ipynb)
+   

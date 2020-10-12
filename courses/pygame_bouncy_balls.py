@@ -67,7 +67,7 @@ my = GROUND_LEVEL
 
 
 items = []
-for idx in range(5):
+for idx in range(10):
 	vy = -np.random.random() * 3
 	vx = np.random.random() * 3
 	item = Item((mx, my), (vx, vy))
