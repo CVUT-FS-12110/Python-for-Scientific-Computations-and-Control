@@ -22,6 +22,11 @@
    
 1. **Game like simulations** - Pygame
 
-   - [Lecture](courses/pygame_bouncy_balls.py)
-   - [Lab task 3](tasks/EN_poker_test.ipynb)
+   - study te following example:[Lecture](courses/pygame_bouncy_balls.py)
+        - you cannot run in jupyter - use console or any IDE
+        - you need `pygame` - it can be installed via `pip`
+        - the example is quite complex, but it consists only from concepts you already know. Thus you should understand it pretty easily.
+  
+   - task: [Lab task 3](tasks/EN_poker_test.ipynb)
+   - responsible person: matous.cejnek@fs.cvut.cz
    
