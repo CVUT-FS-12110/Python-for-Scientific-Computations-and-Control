@@ -30,3 +30,27 @@
    - task: [Lab task 3](tasks/EN_poker_test.ipynb)
    - responsible person: matous.cejnek@fs.cvut.cz
    
+1. **Html parsing, webscraping and server aplications** 
+
+   - You will need following libraries (all instalable via pip):
+     Beautifulsoup, requests.
+
+   - What you should know before (general knowledge / internet basics):
+        - [HTTP protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)         
+        - [JSON](https://en.wikipedia.org/wiki/JSON)
+        - [HTML](https://en.wikipedia.org/wiki/HTML)
+   
+     You need only basic knowledge of these (elementary/high school level).
+
+   - Lecture materials:
+        - [Simple http server](courses/http-simple_server.py),
+          in case of need use additional external resources (optional):
+          [https://www.youtube.com/watch?v=hFNZ6kdBgO0](https://www.youtube.com/watch?v=hFNZ6kdBgO0)
+        - [Python http requests](courses/http-requests.ipynb),
+          the best additional resources is this external documentation:
+          [https://requests.readthedocs.io/en/master/](https://requests.readthedocs.io/en/master/)
+        - [HTML and JSON parsing](courses/parsing-html_json.ipynb) (you do not need to understand it fully, focus on work with JSON)
+   
+   - task: [Lab task 4](tasks/EN_ISS_location_logger.ipynb)
+
+   - responsible person: matous.cejnek@fs.cvut.cz   

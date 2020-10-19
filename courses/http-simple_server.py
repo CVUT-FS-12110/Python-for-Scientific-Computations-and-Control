@@ -1,5 +1,19 @@
 """
+This file contains multiple examples divided by docsrings. 
+
+Uncomment the block of code you want to run before you run the code.
+
+Warning, if you are unable to run server examples because of "the port is occupied error", use different port - 8001, 8002...
+
+"""
+
+
+
+"""
 HTTP server - simple example
+
+This is simple localy running server on http://127.0.0.1:8000 - this server is serving folder from where the script si running.
+
 """
 # import http.server
 # import socketserver
@@ -13,8 +27,12 @@ HTTP server - simple example
 # print("Serving at port", PORT)
 # httpd.serve_forever()
 
+
+
 """
 Server test:
+
+You can test the server with following code (run it from different console while the server is up).
 """
 # import requests
 
@@ -23,8 +41,14 @@ Server test:
 # print(r.status_code)
 # print(r.text)
 
+
+
+
 """
 Server that returns web pages.
+
+
+The next server example serve simple webpages.
 """
 # import http.server
 # import socketserver
@@ -60,8 +84,13 @@ Server that returns web pages.
 # print("Serving at port", PORT)
 # httpd.serve_forever()
 
+
+
 """
 Server example with POST handler
+
+
+This server is able to handle POST request and process it.
 """
 # import http.server
 # import socketserver
@@ -107,6 +136,8 @@ Server example with POST handler
 
 """
 POST test
+
+This sample can be used to test the POST handling server (you need to keep the server running).
 """
 # import requests
 #
