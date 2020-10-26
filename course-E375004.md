@@ -61,9 +61,9 @@
      flask, WTForms
 
    - What you should know before (general knowledge / internet basics):
-         - all the things from previous lecture (requests, simple http server, ...)
-         - [HTML syntax](https://www.w3schools.com/html/) - just basics
+        - all the things from previous lecture (requests, simple http server, ...)
+        - [HTML syntax](https://www.w3schools.com/html/) - just basics
    
-   - lecture and task: [lecture and task 5](courses/E3575004/flask/flask.md)
+   - lecture and task: [lecture and task 5](courses/E375004/flask/flask.md)
 
    - responsible person: adam.peichl@fs.cvut.cz
