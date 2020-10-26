@@ -53,4 +53,17 @@
    
    - task: [Lab task 4](tasks/EN_ISS_location_logger.ipynb)
 
-   - responsible person: matous.cejnek@fs.cvut.cz   
+   - responsible person: matous.cejnek@fs.cvut.cz
+
+1. **Flask applications (with jinja and WTForms)**
+
+   - You will need following libraries (all instalable via pip):
+     flask, WTForms
+
+   - What you should know before (general knowledge / internet basics):
+         - all the things from previous lecture (requests, simple http server, ...)
+         - [HTML syntax](https://www.w3schools.com/html/) - just basics
+   
+   - lecture and task: [lecture and task 5](courses/E3575004/flask/flask.md)
+
+   - responsible person: adam.peichl@fs.cvut.cz
