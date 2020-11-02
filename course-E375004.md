@@ -67,3 +67,22 @@
    - lecture and task: [lecture and task 5](courses/E375004/flask/flask.md)
 
    - responsible person: adam.peichl@fs.cvut.cz
+   
+   1. **NumPy and matplotlib**
+
+   - You will need following libraries (all instalable via pip):
+     numpy, matplotlib
+
+   - What you should know before (general knowledge):
+        - Basic knowledge of linear algebra and calculus
+   
+   - lecture and task: 
+        - [lecture](courses/numpy_matplotlib.ipynb)
+        - [task](tasks/EN_numpy_state_space_model.ipynb)
+   
+   - documentation: 
+        - [numpy](https://numpy.org/)
+        - [matplotlib](https://matplotlib.org/3.3.2/index.html)
+   
+
+   - responsible person: michal.kuchar@fs.cvut.cz
