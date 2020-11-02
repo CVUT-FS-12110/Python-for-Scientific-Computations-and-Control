@@ -68,7 +68,7 @@
 
    - responsible person: adam.peichl@fs.cvut.cz
    
-   1. **NumPy and matplotlib**
+1. **NumPy and matplotlib**
 
    - You will need following libraries (all instalable via pip):
      numpy, matplotlib
