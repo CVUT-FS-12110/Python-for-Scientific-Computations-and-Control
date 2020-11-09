@@ -87,7 +87,7 @@
 
    - responsible person: michal.kuchar@fs.cvut.cz
    
-   1. **Pandas and plotly - Data processing and visualization**
+1. **Pandas and plotly - Data processing and visualization**
 
    - You will need following libraries (all instalable via pip):
      pandas, plotly, numpy, matplotlib
