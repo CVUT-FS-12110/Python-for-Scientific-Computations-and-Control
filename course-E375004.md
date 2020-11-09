@@ -97,7 +97,7 @@
    
    - lecture and task: 
         - [lecture](courses/pandas.ipynb)
-        - task - soon
+        - [task](tasks/EN_pandas_covid.ipynb)
    
    - documentation: 
         - [pandas](https://pandas.pydata.org/)
