@@ -105,3 +105,17 @@
    
 
    - responsible person: michal.kuchar@fs.cvut.cz
+   
+1. **Multithreading**
+
+   - What you should know before (general knowledge):
+        - Basic knowledge of Python
+   
+   - lecture and task: 
+        - [lecture](courses/Multithreading.ipynb)
+        - [task](tasks/EN_threading.ipynb)
+   
+   - documentation: 
+        - [threading](https://docs.python.org/3/library/threading.html)
+   
+   - responsible person: michal.kuchar@fs.cvut.cz
