@@ -119,3 +119,19 @@
         - [threading](https://docs.python.org/3/library/threading.html)
    
    - responsible person: michal.kuchar@fs.cvut.cz
+
+1. **Optimisation - Introduction and Linear Programming**
+   
+   - You will need following libraries (all instalable via pip):
+     cvxpy (check official docs and correctly install it)
+  
+   - What you should know before (general knowledge):
+        - What optimisation is
+        - Basic concept of linear programming
+   
+   - Lecture and task:
+        - [lecture](courses/E375004/cvxpy/cvxpy.md)
+        - [task](tasks/EN_cvxpy_factory.ipynb)
+
+   - responsible person: adam.peichl@fs.cvut.cz
+
