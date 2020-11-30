@@ -135,3 +135,16 @@
 
    - responsible person: adam.peichl@fs.cvut.cz
 
+1. **Artificial Intelligence - Part One**
+   - You will need following libraries (all instalable via pip):
+     numpy, matplotlib, pandas
+  
+   - What you should know before (general knowledge):
+        - linear algebra
+        - derivatives
+   
+   - Lecture and task:
+        - [lecture](courses/E375004/ai_chapter1/ai_chapter1.md)
+        
+   - responsible person: adam.peichl@fs.cvut.cz
+
