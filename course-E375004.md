@@ -148,3 +148,17 @@
         
    - responsible person: adam.peichl@fs.cvut.cz
 
+1. **Artificial Intelligence - Part Two**
+   - You will need following libraries (all instalable via pip):
+     numpy, matplotlib, pandas, tensorflow 2.0
+  
+   - What you should know before (general knowledge):
+        - linear algebra
+        - derivatives
+        - AI basics (perceptron, activation functions, ...)
+   
+   - Lecture and task:
+        - [lecture](courses/E375004/ai_chapter2/ai_chapter2.md)
+        
+   - responsible person: adam.peichl@fs.cvut.cz
+
