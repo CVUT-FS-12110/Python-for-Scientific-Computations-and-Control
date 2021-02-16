@@ -15,7 +15,7 @@ If you do not want to use and install git, you can download this repository (or 
 
 You can download latest version from [python.org](https://www.python.org/). Aim for python 3.5 or higher.
 After that install [pip](https://pypi.org/project/pip/) - it will help you to install additional packages in a quite not painfull way.
-Finally install IDE of your choice. If case you suffer with a lack of choice, go for [Pycharm](https://www.jetbrains.com/pycharm/).
+Finally install IDE of your choice. If you do not know what to choose, go for [Pycharm](https://www.jetbrains.com/pycharm/).
 
 Alternatively you can use pre-installed Python with IDE and packages in bundle called [anaconda distribution](https://www.anaconda.com/).
 This approach is much simpler, however it has some other drawbacks.
@@ -35,3 +35,15 @@ Some Python tasks are possible to solve with an online IDE. This tools can be be
 
 In case you have no previous knowledge of Python, please study [this page](https://www.w3schools.com/python/python_datatypes.asp) and replicate the examples there in your IDE.
 For more detail explanation, you can see also [for example this page](https://realpython.com/python-data-types/).
+
+## Questions and problems?
+
+In case you struggle to google some information, feel free to ask question via Teams (Python team chat, or DM the lecturer). If the question could wait, note it and ask it during consultation.
+
+
+
+
+
+
+
+
