@@ -8,7 +8,11 @@
    - responsible person: matous.cejnek@fs.cvut.cz
 
 1. **Python Basics 2** - for, while, if, functions
- 
+
+   - study [Lecture](courses/Basics-program_flow_and_functions.ipynb)
+   - task: [Lab task 1](tasks/EN_Ceasar_cipher_encryption.ipynb)
+   - responsible person: matous.cejnek@fs.cvut.cz
+
 1. **Python Basics 3** - functions, classes
 
 1. **Game like simulations** - Pygame
