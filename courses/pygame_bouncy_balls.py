@@ -84,6 +84,8 @@ while not done:
 	for event in pygame.event.get():
 		if event.type == pygame.QUIT:
 			done = True
+		elif event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
+				done = True
 
 	time.sleep(0.01)
 	pygame.display.flip()

@@ -21,6 +21,14 @@
    - responsible person: matous.cejnek@fs.cvut.cz
 
 1. **Game like simulations** - Pygame
+    
+   - study the following example:[Lecture](courses/langtons_ant.py) - detail explanation in video
+        - you cannot run in jupyter - use console or any IDE
+        - you need `pygame` - it can be installed via `pip`
+        - the example is quite complex, but it consists only from concepts you already know. Thus you should understand it pretty easily.
+   - study the another example:[Lecture](courses/pygame_bouncy_balls.py)
+   - task: [Lab task 3](tasks/EN_poker_test.ipynb)
+   - responsible person: matous.cejnek@fs.cvut.cz
   
 1. **Html parsing, webscraping and server aplications** 
 
