@@ -121,6 +121,7 @@ This server is able to handle POST request and process it.
 #         html_form = """
 #         <form method="post" action="/">
 #           <input type="text" name="a" value="1"><br>
+#           <input type="text" name="b" value="2"><br>
 #           <input type="submit" value="Send">
 #         </form>
 #         """
