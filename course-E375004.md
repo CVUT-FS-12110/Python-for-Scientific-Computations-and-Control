@@ -68,7 +68,23 @@
 
    - responsible person: adam.peichl@fs.cvut.cz
   
-1. **NumPy and matplotlib**
+1. **Math and visualization using Numpy, Scipy, Matplotlib**
+
+   - You will need following libraries (all instalable via pip):
+     Numpy, Scipy, Matplotlib
+
+   - What you should know before (general knowledge / internet basics):
+        - Linear algebra, calculus
+   
+   - lecture: [lecture](courses/numpy_matplotlib.ipynb)
+   - taks: [task 6](tasks/EN_numpy_euler_state_space_comaprison.ipynb)
+   
+   - documentation: 
+       - [Numpy](https://numpy.org/)
+       - [Scipy](https://scipy.org/)
+       - [Matplotlib](https://matplotlib.org/)
+
+   - responsible person: michal.kuchar@fs.cvut.cz
    
 1. **Pandas and plotly - Data processing and visualization**
    
