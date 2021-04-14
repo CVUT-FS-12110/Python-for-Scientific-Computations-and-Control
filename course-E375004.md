@@ -104,6 +104,19 @@
    - responsible person: michal.kuchar@fs.cvut.cz
    
 1. **Multithreading**
+   - What you should know before (general knowledge / internet basics):
+        - Basic knowledge of Python from previous lectures
+   
+   - lecture: [lecture](courses/Multithreading.ipynb)
+   - external video lecture: 
+        - [Multithreading](https://youtu.be/IEEhzQoKtQU)  
+        - [Multiprocessing](https://youtu.be/fKl2JW_qrso)
+   - taks: [task 7](tasks/EN_threading.ipynb)
+   
+   - documentation: 
+       - [threading](https://docs.python.org/3/library/threading.html)
+
+   - responsible person: michal.kuchar@fs.cvut.cz
 
 1. **Optimisation - Introduction and Linear Programming**
 
