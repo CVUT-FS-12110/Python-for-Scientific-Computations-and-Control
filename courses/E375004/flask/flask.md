@@ -29,7 +29,7 @@ This usualy works for windows users. If you are using Ubuntu (or any other Linx 
 On the internet, you can find something as *"Flask is microweb framework for building websites in python"*. We can think of a flask as ready-to-go python library for simple web application development.
 
 ### Why flask and not Django?
-Django is perfect framwork. For ours purposes is flask better. Flask is easier to start with and much more lightweight. If you are serius in web application development, you should new Django as well though.
+Django is perfect framwork. For ours purposes flask is better. Flask is easier to start with and much more lightweight. If you are serius in web application development, you should know Django as well though.
 
 ### Please pay attention to the official websites (mainly documentation)
 

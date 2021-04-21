@@ -22,9 +22,7 @@ pip install numpy
 pip install cvxpy
 ```
 
-
 ## Introduction
-
 
 Optimization is a process of seeking the maximum or minimum of the *objective function*. In reality, those types of problems are all over the place. For example, if you have a company producing paper boxes, you will want as many boxes as possible made from as little paper as possible.
 

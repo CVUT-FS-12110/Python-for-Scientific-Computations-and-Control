@@ -120,6 +120,19 @@
 
 1. **Optimisation - Introduction and Linear Programming**
 
+   - What you should know before (general knowledge / internet basics):
+      - Linear algebra (norms, eigen values, ...), and derivatives (min and max of a continuus functions)
+      - Basic idea of *least squares* and *linear programming*
+   
+   - You will need following libraries (all instalable via pip):
+      - numpy, matplotlib, cvxpy (check official documentation for installation of linear programming solvers)
+   
+   - lecture: [lecture](courses/E375004/cvxpy/cvxpy.md)
+
+   - task: [task 9](tasks/EN_cvxpy_factory.ipynb)
+
+   - responsible person: adam.peichl@fs.cvut.cz
+
 1. **Artificial Intelligence - Part One**
 
 1. **Artificial Intelligence - Part Two**
