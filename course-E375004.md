@@ -135,4 +135,16 @@
 
 1. **Artificial Intelligence - Part One**
 
+   - What you should know before (general knowledge / internet basics):
+      - Linear algebra (norms, eigen values, ...), and derivatives (min and max of a continuus functions)
+   
+   - You will need following libraries (all instalable via pip):
+      - numpy, pandas, matplotlib
+   
+   - lecture: [lecture](courses/E375004/ai_chapter1/ai_chapter1.md)
+
+   - task: [task 10](tasks/EN_ai1.ipynb)
+
+   - responsible person: adam.peichl@fs.cvut.cz
+
 1. **Artificial Intelligence - Part Two**
