@@ -126,3 +126,6 @@ dmypy.json
 
 # jupyter notebook
 .ipynb_checkpoints
+
+# VS code
+.vscode
