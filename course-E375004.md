@@ -25,7 +25,7 @@
    - task: [Lab task 3](tasks/EN_poker_test.ipynb)
    - responsible person: matous.cejnek@fs.cvut.cz
 
-1. **Html parsing, webscraping and server aplications**
+1. **Html parsing, webscraping and server applications**
 
    - You will need following libraries (all instalable via pip):
      Beautifulsoup, requests.
