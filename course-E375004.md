@@ -62,9 +62,9 @@
 
    - Lecture materials:
         - [notebook](courses/numpy_matplotlib.ipynb),
-          in case of need use additional external resources (optional):
+   - in case of need use additional external resources (optional):
         - [numpy tutorial](https://youtu.be/QUT1VHiLmmI)
-        - [matplotlib tutorial](https://youtu.be/UO98lJQ3QGI),
+        - [matplotlib tutorial](https://youtu.be/UO98lJQ3QGI)
    
    - task: [Lab task 5](tasks/EN_numpy_convolution_filter.ipynb)
 
