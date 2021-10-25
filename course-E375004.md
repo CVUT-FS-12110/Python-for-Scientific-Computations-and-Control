@@ -49,3 +49,23 @@
    - task: [Lab task 4](tasks/EN_ISS_location_logger.ipynb)
 
    - responsible person: matous.cejnek@fs.cvut.cz
+
+
+1. **Math and visualization using numpy and matplotlib**
+
+   - You will need following libraries (all instalable via pip):
+     numpy, matplotlib.
+
+   - What you should know before (general knowledge / internet basics):
+        - Python basics
+        - calculus
+
+   - Lecture materials:
+        - [notebook](courses/numpy_matplotlib.ipynb),
+          in case of need use additional external resources (optional):
+        - [numpy tutorial](https://youtu.be/QUT1VHiLmmI)
+        - [matplotlib tutorial](https://youtu.be/UO98lJQ3QGI),
+   
+   - task: [Lab task 5](tasks/EN_numpy_convolution_filter.ipynb)
+
+   - responsible person: michal.kuchar@fs.cvut.cz
