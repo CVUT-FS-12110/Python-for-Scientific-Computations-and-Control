@@ -69,3 +69,21 @@
    - task: [Lab task 5](tasks/EN_numpy_convolution_filter.ipynb)
 
    - responsible person: michal.kuchar@fs.cvut.cz
+
+1. **Data processing and visualization using pandas and plotly**
+
+   - You will need following libraries (all instalable via pip):
+     pandas, plotly.
+
+   - What you should know before (general knowledge / internet basics):
+        - Python basics
+
+   - Lecture materials:
+        - [notebook](courses/pandas.ipynb)
+   - in case of need use additional external resources (optional):
+        - [pandas tutorial](https://youtu.be/vmEHCJofslg)
+        - [plotly tutorial](https://youtu.be/GGL6U0k8WYA)
+   
+   - task: [Lab task 6](tasks/EN_pandas_covid.ipynb)
+
+   - responsible person: michal.kuchar@fs.cvut.cz
