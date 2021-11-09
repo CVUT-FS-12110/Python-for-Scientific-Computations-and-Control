@@ -49,8 +49,7 @@
    - task: [Lab task 4](tasks/EN_ISS_location_logger.ipynb)
 
    - responsible person: matous.cejnek@fs.cvut.cz
-
-
+   
 1. **Math and visualization using numpy and matplotlib**
 
    - You will need following libraries (all instalable via pip):
@@ -85,5 +84,22 @@
         - [plotly tutorial](https://youtu.be/GGL6U0k8WYA)
    
    - task: [Lab task 6](tasks/EN_pandas_covid.ipynb)
+
+   - responsible person: michal.kuchar@fs.cvut.cz
+1. **Multithreading**
+
+   - You will need following libraries (all instalable via pip):
+     requests.
+
+   - What you should know before (general knowledge / internet basics):
+        - Python basics
+
+   - Lecture materials:
+        - [notebook](courses/Multithreading.ipynb)
+   - in case of need use additional external resources (optional):
+        - [multithreading tutorial](https://youtu.be/IEEhzQoKtQU)
+        - [multiprocessing tutorial](https://youtu.be/fKl2JW_qrso)
+   
+   - task: [Lab task 7](tasks/EN_threading.ipynb)
 
    - responsible person: michal.kuchar@fs.cvut.cz
