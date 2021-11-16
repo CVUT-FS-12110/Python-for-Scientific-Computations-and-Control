@@ -103,3 +103,15 @@
    - task: [Lab task 7](tasks/EN_threading.ipynb)
 
    - responsible person: michal.kuchar@fs.cvut.cz
+ 
+1. **Optimization - Linear Programming**
+   
+   - You will need following libraries (installable via pip):
+     cvxpy
+     
+   -Lecture materials:
+      - [lecture](courses/E375004/cvxpy/cvxpy.md)
+   
+   -task: [Lab task 8](tasks/EN_cvxpy_factory.ipynb)
+
+   - responsible person: adam.peichl@fs.cvut.cz
