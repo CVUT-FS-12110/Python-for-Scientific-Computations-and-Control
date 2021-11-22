@@ -115,3 +115,12 @@
    -task: [Lab task 8](tasks/EN_cvxpy_factory.ipynb)
 
    - responsible person: adam.peichl@fs.cvut.cz
+
+1. **AI - Chapter I**
+     
+   -Lecture materials:
+      - [lecture](courses/E375004/ai_chapter1/ai_chapter1.md)
+   
+   -task: [Lab task 8](tasks/EN_ai1.ipynb)
+
+   - responsible person: adam.peichl@fs.cvut.cz
