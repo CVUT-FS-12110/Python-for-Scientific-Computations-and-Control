@@ -124,3 +124,12 @@
    -task: [Lab task 8](tasks/EN_ai1.ipynb)
 
    - responsible person: adam.peichl@fs.cvut.cz
+
+1. **AI - Chapter II**
+     
+   -Lecture materials:
+      - [lecture](courses/E375004/ai_chapter2/ai_chapter2.md)
+   
+   -task: no task this week
+
+   - responsible person: adam.peichl@fs.cvut.cz, michal.kuchar@fs.cvut.cz
