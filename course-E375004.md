@@ -126,6 +126,9 @@
    - responsible person: adam.peichl@fs.cvut.cz
 
 1. **AI - Chapter II**
+
+   - You will need following libraries (installable via pip):
+     tensorflow
      
    -Lecture materials:
       - [lecture](courses/E375004/ai_chapter2/ai_chapter2.md)
