@@ -9,7 +9,7 @@
 
    - Notebook a) [intro](courses/intro.md)
    - Notebook b) [Program flow](courses/E375004/01_python_basics_1/01_basics.ipynb)
-   - task: [Lab task 1](tasks/EN_Ceasar_cipher_encryption.ipynb)
+   - task: [Fun with circles](tasks/01_circles)
    - responsible person: martin.vitousek@fs.cvut.cz
    
 1. **Python Basics 2** - functions, classes
