@@ -12,7 +12,7 @@ The overall classification consists of 3 parts: weekly assignments, one extra pr
 * you will be given 8-10 assignments during the year
 * possible maximum: 80 points
 * required minimum: 40 points (50%)
-* The maximum number of points for late assignment cannot exceed 70 % of normal points.
+* the maximum number of points for late assignment cannot exceed 70 % of normal points.
 
 #### Extra project (optional)
 * extra project
@@ -45,7 +45,7 @@ Grading table:
 |     <50    |    F   |
 
 ## Aditional information
-* You should solve the task assigned by the lecturer every week. If you are unable to solve it during one week, notify the lecturer. The lecturer can grant you extra time to finish the task.
+* You should solve the task assigned by the lecturer every week. If you are unable to solve it during one week, notify the lecturer. The lecturer can grant you extra time to finish the task. However, you can get max. 70 % of points. 
 * The correct solution of all tasks during the semester can give you up to 80 points (every task can produce an equal fraction of points from this total number).
 * Upload your solution via MS Teams assignments feature.
 * Your submission has to be runnable by Python 3.x (Jupyter notebook, .py file)
