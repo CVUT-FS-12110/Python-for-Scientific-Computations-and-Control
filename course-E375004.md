@@ -8,8 +8,8 @@
 1. **Python Basics 1** - installation, IDEs, data types, for, while, if, functions
 
    - Notebook a) [intro](courses/intro.md)
-   - Notebook b) [Program flow](courses/E375004/01_python_basics_1/01_basics.ipynb)
-   - task: [Fun with circles](tasks/01_circles)
+   - Notebook b) [Program flow](courses/E375004/python_basics_1/basics_01.ipynb)
+   - task: [Fun with circles](tasks/circles)
    - responsible person: martin.vitousek@fs.cvut.cz
    
 1. **Python Basics 2** - functions, classes
