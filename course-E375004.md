@@ -19,7 +19,7 @@
    - task: TBA
    - responsible person: martin.vitousek@fs.cvut.cz
 
-3. **Math and visualization using numpy, scipy, matplotlib**
+3. **Math and visualization** - work with packages: numpy, scipy, matplotlib, linear algebra, calculus, graphs 
 
    - Notebook: TBA
    - task: TBA
