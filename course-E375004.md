@@ -12,11 +12,21 @@
    - task: [Fun with circles](tasks/circles)
    - responsible person: martin.vitousek@fs.cvut.cz
    
-1. **Python Basics 2** - functions, classes
+2. **Python Basics 2** - functions, classes
 
    - study any introduction to Python classes, for example: [W3Schools](https://www.w3schools.com/python/python_classes.asp) (easy to understand) or [Python docs](https://docs.python.org/3/tutorial/classes.html) (more detailed)
    - Notebook: TBA
    - task: TBA
    - responsible person: martin.vitousek@fs.cvut.cz
 
-1. **TBA**
+3. **Math and visualization using numpy, scipy, matplotlib**
+
+   - Notebook: TBA
+   - task: TBA
+   - responsible person: michal.kuchar@fs.cvut.cz
+
+4. **Data processing and visualization using pandas**
+
+   - Notebook: TBA
+   - task: TBA
+   - responsible person: adam.peichl@fs.cvut.cz
