@@ -20,10 +20,10 @@
    - task: [Rock, paper, scissors](tasks/rock_paper_scissors)
    - responsible person: martin.vitousek@fs.cvut.cz
 
-3. **Math and visualization** - work with packages: numpy, scipy, matplotlib, linear algebra, calculus, graphs 
+3. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs 
 
-   - Notebook: TBA
-   - task: TBA
+   - Notebook: [numpy, scipy, matplotlib](courses/E375004/numpy_matplotlib/numpy_matplotlib.ipynb)
+   - task: [Image convolution](tasks/EN_numpy_convolution_filter.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
 4. **Data processing and visualization using pandas**
@@ -31,3 +31,10 @@
    - Notebook: TBA
    - task: TBA
    - responsible person: adam.peichl@fs.cvut.cz
+
+5. **Simple 2D game using pygame**
+
+   - Notebook: TBA
+   - task: TBA
+   - responsible person: adam.peichl@fs.cvut.cz
+   
