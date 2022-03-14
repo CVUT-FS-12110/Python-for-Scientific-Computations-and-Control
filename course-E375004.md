@@ -35,7 +35,7 @@
 
 5. **Simple 2D game using pygame**
 
-   - Notebook: TBA
-   - task: TBA
+   - Source code: [rocket game](courses/E375004/pygame_simulator)
+   - task: via MS Teams
    - responsible person: adam.peichl@fs.cvut.cz
    
