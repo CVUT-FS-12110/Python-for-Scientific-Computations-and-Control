@@ -39,7 +39,7 @@
    - task: via MS Teams
    - responsible person: adam.peichl@fs.cvut.cz
 
-6. **Multihtrading** 
+6. **Multithreading** 
 
    - Notebook: [multithreading](courses/E375004/multithreading/multithreading.ipynb)
    - external video tutorial: [multiprocessing](https://youtu.be/fKl2JW_qrso)
