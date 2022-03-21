@@ -38,4 +38,9 @@
    - Source code: [rocket game](courses/E375004/pygame_simulator)
    - task: via MS Teams
    - responsible person: adam.peichl@fs.cvut.cz
-   
+
+6. **Multihtrading** 
+
+   - Notebook: [multithreading](courses/E375004/multithreading/multithreading.ipynb)
+   - task: [here](tasks/convolution/EN_numpy_convolution_filter.ipynb)
+   - responsible person: michal.kuchar@fs.cvut.cz
