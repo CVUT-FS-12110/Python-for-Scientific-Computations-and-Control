@@ -42,5 +42,6 @@
 6. **Multihtrading** 
 
    - Notebook: [multithreading](courses/E375004/multithreading/multithreading.ipynb)
+   - external video tutorial: [multiprocessing](https://youtu.be/fKl2JW_qrso)
    - task: [here](tasks/convolution/EN_numpy_convolution_filter.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
