@@ -73,17 +73,17 @@
 11. **AI - part 1** 
 
     - Notebook: TBA
-    - task: TBA
+    - task: no task
     - responsible person:  adam.peichl@fs.cvut.cz
     
 12. **AI - part 2** 
 
     - Notebook: TBA
-    - task: TBA
+    - task: no task
     - responsible person:  michal.kuchar@fs.cvut.cz
 
 13. **Smart sensor - MicroPython** 
 
     - Notebook: TBA
-    - task: TBA
+    - task: no task
     - responsible person:  martin.vitousek@fs.cvut.cz
