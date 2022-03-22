@@ -45,3 +45,45 @@
    - external video tutorial: [multiprocessing](https://youtu.be/fKl2JW_qrso)
    - task: [here](tasks/multithreading/multithreading.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
+
+7. **Control simulation** 
+
+   - Notebook: TBA
+   - task: TBA
+   - responsible person: michal.kuchar@fs.cvut.cz
+
+8. **Full web app - part 1** 
+
+   - Notebook: TBA
+   - task: TBA
+   - responsible person: martin.vitousek@fs.cvut.cz
+
+9. **Full web app - part 2** 
+
+   - Notebook: TBA
+   - task: TBA
+   - responsible person: adam.peichl@fs.cvut.cz
+
+10. **Full web app - part 3** 
+
+    - Notebook: TBA
+    - task: TBA
+    - responsible person:  martin.vitousek@fs.cvut.cz
+
+11. **AI - part 1** 
+
+    - Notebook: TBA
+    - task: TBA
+    - responsible person:  adam.peichl@fs.cvut.cz
+    
+12. **AI - part 2** 
+
+    - Notebook: TBA
+    - task: TBA
+    - responsible person:  michal.kuchar@fs.cvut.cz
+
+13. **Smart sensor - MicroPython** 
+
+    - Notebook: TBA
+    - task: TBA
+    - responsible person:  martin.vitousek@fs.cvut.cz
