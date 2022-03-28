@@ -48,8 +48,7 @@
 
 7. **Control simulation** 
 
-   - Notebook: TBA
-   - task: TBA
+   - lecture folder: [control](courses/E375004/control)
    - responsible person: michal.kuchar@fs.cvut.cz
 
 8. **Full web app - part 1** 
@@ -68,22 +67,4 @@
 
     - Notebook: TBA
     - task: TBA
-    - responsible person:  martin.vitousek@fs.cvut.cz
-
-11. **AI - part 1** 
-
-    - Notebook: TBA
-    - task: no task
-    - responsible person:  adam.peichl@fs.cvut.cz
-    
-12. **AI - part 2** 
-
-    - Notebook: TBA
-    - task: no task
-    - responsible person:  michal.kuchar@fs.cvut.cz
-
-13. **Smart sensor - MicroPython** 
-
-    - Notebook: TBA
-    - task: no task
     - responsible person:  martin.vitousek@fs.cvut.cz
