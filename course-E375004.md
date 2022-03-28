@@ -49,6 +49,7 @@
 7. **Control simulation** 
 
    - lecture folder: [control](courses/E375004/control)
+   - task: [here](tasks/controller/controller.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
 8. **Full web app - part 1** 
