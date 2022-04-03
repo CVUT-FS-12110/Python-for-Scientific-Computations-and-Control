@@ -54,7 +54,7 @@
 
 8. **Full web app - part 1** 
 
-   - Source codes: [start-here] (courses/E375004/webapp_api/README.md), codes
+   - Source codes: [start-here](courses/E375004/webapp_api/README.md), codes
         are in `courses/E375004/webapp_api`
    - task: via MS Teams
    - responsible person: adam.peichl@fs.cvut.cz
