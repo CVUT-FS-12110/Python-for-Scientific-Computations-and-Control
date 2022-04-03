@@ -11,7 +11,8 @@ import asyncio
 import hypercorn
 from hypercorn.asyncio import serve
 
-from warehouse_app.helloworld_app import app
+# from warehouse_app.helloworld_app import app
+from warehouse_app.app import app
 
 print("I am about to serve you web application!")
 

@@ -54,15 +54,16 @@
 
 8. **Full web app - part 1** 
 
-   - Notebook: TBA
-   - task: TBA
-   - responsible person: martin.vitousek@fs.cvut.cz
+   - Source codes: [start-here] (courses/E375004/webapp_api/README.md), codes
+        are in `courses/E375004/webapp_api`
+   - task: via MS Teams
+   - responsible person: adam.peichl@fs.cvut.cz
 
 9. **Full web app - part 2** 
 
    - Notebook: TBA
    - task: TBA
-   - responsible person: adam.peichl@fs.cvut.cz
+   - responsible person: martin.vitousek@fs.cvut.cz
 
 10. **Full web app - part 3** 
 
