@@ -1,0 +1,4 @@
+fastapi
+hypercorn
+sqlalchemy
+pydantic
