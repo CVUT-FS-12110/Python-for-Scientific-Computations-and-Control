@@ -2,3 +2,6 @@ fastapi
 hypercorn
 sqlalchemy
 pydantic
+jinja2
+requests
+python-multipart

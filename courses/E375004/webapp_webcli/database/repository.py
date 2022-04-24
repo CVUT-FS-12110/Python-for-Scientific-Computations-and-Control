@@ -85,5 +85,17 @@ class Repository:
         # YOUR CODE HERE
         pass
 
+    def get_all_warehouses(self) -> list[WarehouseBto]:
+        """ Gets all unique names of warehouses
+        Returns:
+            list of names (strings)
+        """
+        with self._Session() as session:
+            stmt = select(Warehouse)
+
+            res = session.scalars(stmt)
+
+            return [WarehouseBto.bto(w) for w in res]
+
 
 warehouse_database = Repository()

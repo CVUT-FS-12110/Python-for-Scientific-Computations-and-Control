@@ -43,6 +43,16 @@ def create_new_warehouse(new_warehouse: WarehouseDto):
     )
 
 
+@warehouse_router.get("/warehouse", response_model=List[WarehouseDto])
+def get_warehouses():
+    """ Gets all warehouses
+    Returns:
+        list of warehouses (WarehouseDto), STATUS 200 (list can be empty)
+    """
+    warehouses = [WarehouseDto.dto(w) for w in warehouse_database.get_all_warehouses()]
+    return warehouses
+
+
 @warehouse_router.get("/{warehouse_name}", response_model=WarehouseDto)
 def get_warehouse_by_name(warehouse_name: str):
     """ Gets warehouse by name

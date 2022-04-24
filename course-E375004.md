@@ -70,6 +70,8 @@
 
 10. **Full web app - part 3** 
 
-    - Notebook: TBA
-    - task: TBA
-    - responsible person:  martin.vitousek@fs.cvut.cz
+   - Source codes: [start-here](courses/E375004/webapp_webcli/README.md)
+     - Client: [database](courses/E375004/webapp_webcli/warehouse_app/client)
+     - Application: [application](courses/E375004/webapp_webcli)
+   - task: [here](tasks/webapp_webcli/README.md) 
+   - responsible person: martin.vitousek@fs.cvut.cz

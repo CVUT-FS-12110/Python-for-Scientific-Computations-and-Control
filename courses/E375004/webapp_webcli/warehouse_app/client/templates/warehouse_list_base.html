@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h3 class="card-header text-center">Warehouse list</h3>
+
+    <table class="table table-striped table-hover caption-top">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th>Name</th>
+                <th>Location</th>
+                <th>Capacity</th>
+                <th>Items</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for warehouse in warehouses %}
+                <tr>
+                    <th scope="col">{{ loop.index }}</th>
+                    <td>{{ warehouse['name'] }}</td>
+                    <td>{{ warehouse['location'] }}</td>
+                    <td>{{ warehouse['capacity'] }}</td>
+                    <td>
+                        {% for item in warehouse['items'] %}
+                            {{ item['name'] }} ({{ item['amount'] }}),
+                        {% endfor %}
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
