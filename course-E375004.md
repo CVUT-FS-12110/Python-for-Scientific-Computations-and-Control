@@ -75,3 +75,15 @@
      - Application: [application](courses/E375004/webapp_webcli)
    - task: [here](tasks/webapp_webcli/README.md) 
    - responsible person: martin.vitousek@fs.cvut.cz
+
+## Bonus Lectures
+
+1. **Artificial Intelligence** - 
+
+   - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
+   - responsible person: adam.peichl@fs.cvut.cz
+
+1. **Optimisation - linear programming** - 
+
+   - Source codes: [start-here](courses/E375004/optimisation/cvxpy.md)
+   - responsible person: adam.peichl@fs.cvut.cz
