@@ -8,13 +8,13 @@
 
 ## esptool
 * Create venv with `python -m venv venv`
-* Open venv (venv\Scripts\activate on Win) 
+* Open venv (`venv\Scripts\activate` on Win) 
 * Install esptool with `pip install esptool`
 * erase board: `python -m esptool --chip esp32 --port <PORT_OF_YOUR_BOARD> erase_flash` (you need to close Serial monitor for that to free the com port)
     * after running the command push the button **BOOT** on the board
 * Get firmware for your board from: https://micropython.org/download/ (we use the one from lecture repository on github)
 * flash the board: `python -m esptool --chip esp32 --port <PORT_OF_YOUR_BOARD> --baud 460800 write_flash -z 0x1000 esp32-20220117-v1.18.bin`
-    * after running the command push the button **BOOT** on the board
+    * instead of `esp32-20220117-v1.18.bin` use the path to the firmware bin you have downloaded
 
 
 # Micropythoning
@@ -42,7 +42,7 @@
 ## Boot script
 * After reboot of the board the `boot.py` script is loaded first
 * There we should specify basic setup of the board (wifi connection, webrepl setup) so we don't have to do it each time
-* Prepare your `boot.py` or use the one from lecture files
+* Prepare your `boot.py` or use the one from [lecture files](https://github.com/CVUT-FS-12110/Python/blob/master/courses/E375004/micropython_smart_sensor/04_scripts_for_board/boot.py)
 * Load the `boot.py` with Webrepl: Choose file -> Send to device
 * Reboot the board, in the serial monitor you should se the connection and webrepl launch
 
@@ -50,3 +50,4 @@
 * After the `boot.py` is executed the `main.py` is then loaded
 * In `main.py` our code for program should be placed (we can also include other scripts but main is starting point)
 * For the lecture purposes we will make program for reading of temperature sensor on the board and providing the data to server API via local WIFI site
+   * prepared `main.py` is in  [lecture files](https://github.com/CVUT-FS-12110/Python/blob/master/courses/E375004/micropython_smart_sensor/04_scripts_for_board/main.py) 
