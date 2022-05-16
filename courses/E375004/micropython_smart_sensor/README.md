@@ -7,7 +7,6 @@
 * Open Arduino IDE -> tools -> Serial monitor with correct port (you have to find it with Arduino IDE -> Tools -> Port and try with serial monitor)
 
 ## esptool
-* Download [esptool](https://github.com/espressif/esptool)
 * Create venv with `python -m venv venv`
 * Open venv (venv\Scripts\activate on Win) 
 * Install esptool with `pip install esptool`
