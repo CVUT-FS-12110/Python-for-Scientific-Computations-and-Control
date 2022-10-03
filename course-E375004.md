@@ -13,16 +13,16 @@
    - Notebook b) [Program flow](courses/E375004/python_basics_1/basics_01.ipynb)
    - task: [Task 1](tasks/EN_Ceasar_cipher_encryption.ipynb)
    - responsible person: matous.cejnek@fs.cvut.cz
- 
-    ## Possible following topics (it might change)
-  
+   
 1. **Python Basics 2** - functions, classes
 
    - study any introduction to Python classes, for example: [W3Schools](https://www.w3schools.com/python/python_classes.asp) (easy to understand) or [Python docs](https://docs.python.org/3/tutorial/classes.html) (more detailed)
    - Notebook a) [Advanced functions](courses/E375004/python_basics_2/basics_02a.ipynb)
    - Notebook b) [Classes and objects](courses/E375004/python_basics_2/basics_02b.ipynb)
    - task: [Rock, paper, scissors](tasks/rock_paper_scissors)
-   - responsible person: martin.vitousek@fs.cvut.cz
+   - responsible person: matous.cejnek@fs.cvut.cz
+
+    ## Possible following topics (it might change)
 
 3. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs 
 
