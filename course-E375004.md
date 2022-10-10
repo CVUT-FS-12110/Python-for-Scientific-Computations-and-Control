@@ -28,7 +28,7 @@
    - Source code: [For the video lecture](courses/E375004/pygame/langtons_ant.py)
    - Source code: [Another simulation example](courses/E375004/pygame/pygame_bouncy_balls.py)   
    - Source code: [Empty pygame template](courses/E375004/pygame/pygame_empty_draft.py)
-   - task: [Poker test (test of randomnes)](tasks/EN_poker_test.ipynb) or alternatively, create some nice simulation with Pygame.
+   - task: [Poker test (test of randomness)](tasks/EN_poker_test.ipynb) or alternatively, create some nice simulation with Pygame.
    - responsible person: matous.cejnek@fs.cvut.cz
 
     ## Possible following topics (it might change)
