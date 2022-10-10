@@ -22,48 +22,53 @@
    - task: [Rock, paper, scissors](tasks/rock_paper_scissors)
    - responsible person: matous.cejnek@fs.cvut.cz
 
+1. **Animated simulation using pygame**
+
+   - You have to install **pygame** (via pip)
+   - Source code: [For the video lecture](courses/E375004/pygame/langtons_ant.py)
+   - Source code: [Another simulation example](courses/E375004/pygame/pygame_bouncy_balls.py)   
+   - Source code: [Empty pygame template](courses/E375004/pygame/pygame_empty_draft.py)
+   - task: [Poker test (test of randomnes)](tasks/EN_poker_test.ipynb) or alternatively, create some nice simulation with Pygame.
+   - responsible person: matous.cejnek@fs.cvut.cz
+
     ## Possible following topics (it might change)
 
-3. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs 
+1. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs 
 
    - Notebook: [numpy, scipy, matplotlib](courses/E375004/numpy_matplotlib/numpy_matplotlib.ipynb)
    - task: [Image convolution](tasks/convolution/EN_numpy_convolution_filter.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
-4. **Data processing and visualization using pandas**
+1. **Data processing and visualization using pandas**
 
    - Notebook a) [tabular data, pandas](courses/E375004/data_pandas/basics_01.ipynb)
    - Notebook b) [COVID data example](courses/E375004/data_pandas/basics_02.ipynb)
    - task: via MS Teams
    - responsible person: adam.peichl@fs.cvut.cz
 
-5. **Simple 2D game using pygame**
 
-   - Source code: [rocket game](courses/E375004/pygame_simulator)
-   - task: via MS Teams
-   - responsible person: adam.peichl@fs.cvut.cz
 
-6. **Multithreading** 
+1. **Multithreading** 
 
    - Notebook: [multithreading](courses/E375004/multithreading/multithreading.ipynb)
    - external video tutorial: [multiprocessing](https://youtu.be/fKl2JW_qrso)
    - task: [here](tasks/multithreading/multithreading.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
-7. **Control simulation** 
+1. **Control simulation** 
 
    - lecture folder: [control](courses/E375004/control)
    - task: [here](tasks/controller/controller.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
-8. **Full web app - part 1** 
+1. **Full web app - part 1** 
 
    - Source codes: [start-here](courses/E375004/webapp_api/README.md), codes
         are in `courses/E375004/webapp_api`
    - task: via MS Teams
    - responsible person: adam.peichl@fs.cvut.cz
 
-9. **Full web app - part 2** 
+1. **Full web app - part 2** 
 
    - Source codes: [start-here](courses/E375004/webapp_database/README.md)
      - Introduction to sqlalchemy: [example.py](courses/E375004/webapp_database/sqlalchemy_introduction/example.md)
@@ -72,7 +77,7 @@
    - task: [here](tasks/webapp_database/README.md) 
    - responsible person: martin.vitousek@fs.cvut.cz
 
-10. **Full web app - part 3** 
+1. **Full web app - part 3** 
 
    - Source codes: [start-here](courses/E375004/webapp_webcli/README.md)
      - Client: [database](courses/E375004/webapp_webcli/warehouse_app/client)
