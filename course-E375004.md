@@ -30,6 +30,16 @@
    - Source code: [Empty pygame template](courses/E375004/pygame/pygame_empty_draft.py)
    - task: [Poker test (test of randomnes)](tasks/EN_poker_test.ipynb) or alternatively, create some nice simulation with Pygame.
    - responsible person: matous.cejnek@fs.cvut.cz
+   - task: [Rock, paper, scissors](tasks/rock_paper_scissors)
+   - responsible person: matous.cejnek@fs.cvut.cz
+
+1. **HTTP requests, HTML and JSON parsing**
+
+   - Recommended library is **requests** (via pip, more information in notebooks)
+   - Notebook a): [HTTP requests](courses/api_json_html-parsing/http-requests.ipynb)
+   - Notebook b): [JSON and HTML parsing](courses/api_json_html-parsing/parsing-html_json.ipynb)
+   - task: [ISS location logger](tasks/EN_ISS_location_logger.ipynb)
+   - responsible person: matous.cejnek@fs.cvut.cz
 
     ## Possible following topics (it might change)
 
