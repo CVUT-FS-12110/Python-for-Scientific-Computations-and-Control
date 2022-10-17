@@ -30,8 +30,6 @@
    - Source code: [Empty pygame template](courses/E375004/pygame/pygame_empty_draft.py)
    - task: [Poker test (test of randomness)](tasks/EN_poker_test.ipynb) or alternatively, create some nice simulation with Pygame.
    - responsible person: matous.cejnek@fs.cvut.cz
-   - task: [Rock, paper, scissors](tasks/rock_paper_scissors)
-   - responsible person: matous.cejnek@fs.cvut.cz
 
 1. **HTTP requests, HTML and JSON parsing**
 
