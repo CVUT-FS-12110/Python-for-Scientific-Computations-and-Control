@@ -34,8 +34,8 @@
 1. **HTTP requests, HTML and JSON parsing**
 
    - Recommended library is **requests** (via pip, more information in notebooks)
-   - Notebook a): [HTTP requests](courses/api_json_html-parsing/http-requests.ipynb)
-   - Notebook b): [JSON and HTML parsing](courses/api_json_html-parsing/parsing-html_json.ipynb)
+   - Notebook a): [HTTP requests](courses/E375004/api_json_html-parsing/http-requests.ipynb)
+   - Notebook b): [JSON and HTML parsing](courses/E375004/api_json_html-parsing/parsing-html_json.ipynb)
    - task: [ISS location logger](tasks/EN_ISS_location_logger.ipynb)
    - responsible person: matous.cejnek@fs.cvut.cz
 
