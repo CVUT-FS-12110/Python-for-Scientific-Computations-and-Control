@@ -39,6 +39,13 @@
    - task: [ISS location logger](tasks/EN_ISS_location_logger.ipynb)
    - responsible person: matous.cejnek@fs.cvut.cz
 
+1. **Multithreading** 
+
+   - Notebook: [multithreading](courses/E375004/multithreading/multithreading.ipynb)
+   - external video tutorial: [multiprocessing](https://youtu.be/fKl2JW_qrso)
+   - task: [here](tasks/EN_threading.ipynb)
+   - responsible person: matous.cejnek@fs.cvut.cz
+
     ## Possible following topics (it might change)
 
 1. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs 
@@ -54,15 +61,7 @@
    - task: via MS Teams
    - responsible person: adam.peichl@fs.cvut.cz
 
-
-
-1. **Multithreading** 
-
-   - Notebook: [multithreading](courses/E375004/multithreading/multithreading.ipynb)
-   - external video tutorial: [multiprocessing](https://youtu.be/fKl2JW_qrso)
-   - task: [here](tasks/multithreading/multithreading.ipynb)
-   - responsible person: michal.kuchar@fs.cvut.cz
-
+   
 1. **Control simulation** 
 
    - lecture folder: [control](courses/E375004/control)
