@@ -46,13 +46,15 @@
    - task: [here](tasks/EN_threading.ipynb)
    - responsible person: matous.cejnek@fs.cvut.cz
 
-    ## Possible following topics (it might change)
-
 1. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs 
 
    - Notebook: [numpy, scipy, matplotlib](courses/E375004/numpy_matplotlib/numpy_matplotlib.ipynb)
    - task: [Image convolution](tasks/convolution/EN_numpy_convolution_filter.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
+
+    ## Possible following topics (it might change)
+
+
 
 1. **Data processing and visualization using pandas**
 
