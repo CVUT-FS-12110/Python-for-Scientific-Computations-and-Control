@@ -52,16 +52,14 @@
    - task: [Image convolution](tasks/convolution/EN_numpy_convolution_filter.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
-    ## Possible following topics (it might change)
-
-
-
 1. **Data processing and visualization using pandas**
 
    - Notebook a) [tabular data, pandas](courses/E375004/data_pandas/basics_01.ipynb)
    - Notebook b) [COVID data example](courses/E375004/data_pandas/basics_02.ipynb)
-   - task: via MS Teams
-   - responsible person: adam.peichl@fs.cvut.cz
+   - task: [COVID data processing](tasks/EN_pandas_covid_2.ipynb)
+   - responsible person: michal.kuchar@fs.cvut.cz
+
+    ## Possible following topics (it might change)
 
    
 1. **Control simulation** 
