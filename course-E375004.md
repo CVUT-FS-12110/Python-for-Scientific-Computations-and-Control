@@ -59,8 +59,13 @@
    - task: [COVID data processing](tasks/EN_pandas_covid_2.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
-    ## Possible following topics (it might change)
+1. **Optimisation - linear programming** - 
 
+   - Lecture: [start-here](courses/E375004/optimisation/cvxpy.md)
+   - task: [Optimizing phone factory](tasks/EN_cvxpy_factory.ipynb)
+   - responsible person: adam.peichl@fs.cvut.cz
+
+## Possible following topics (it might change)
    
 1. **Control simulation** 
 
@@ -91,20 +96,13 @@
      - Application: [application](courses/E375004/webapp_webcli)
    - task: [here](tasks/webapp_webcli/README.md) 
    - responsible person: martin.vitousek@fs.cvut.cz
-
-## Bonus Lectures
-
+   
 1. **Artificial Intelligence** - 
 
    - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
    - responsible person: adam.peichl@fs.cvut.cz
 
-2. **Optimisation - linear programming** - 
-
-   - Source codes: [start-here](courses/E375004/optimisation/cvxpy.md)
-   - responsible person: adam.peichl@fs.cvut.cz
-
-3. **Micropython - smart sensor** - 
+1. **Micropython - smart sensor** - 
 
    - Source codes: [start-here](courses/E375004/micropython_smart_sensor/README.md)
      - Resources: [micropython](courses/E375004/micropython_smart_sensor)
