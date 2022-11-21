@@ -65,6 +65,12 @@
    - task: [Optimizing phone factory](tasks/EN_cvxpy_factory.ipynb)
    - responsible person: adam.peichl@fs.cvut.cz
 
+1. **Image Processing - introduction to opencv library** - 
+
+   - Lecture: [start-here](courses/E375004/image_processing/opencv_intro.ipynb)
+   - task: [Class ImageBGR](tasks/EN_immage_processing.ipynb)
+   - responsible person: adam.peichl@fs.cvut.cz
+
 ## Possible following topics (it might change)
    
 1. **Control simulation** 
