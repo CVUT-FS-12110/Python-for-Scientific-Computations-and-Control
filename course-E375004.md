@@ -71,6 +71,11 @@
    - task: [Class ImageBGR](tasks/EN_immage_processing.ipynb)
    - responsible person: adam.peichl@fs.cvut.cz
 
+1. **Artificial Intelligence** - 
+
+   - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
+   - responsible person: adam.peichl@fs.cvut.cz
+
 ## Possible following topics (it might change)
    
 1. **Control simulation** 
@@ -103,10 +108,7 @@
    - task: [here](tasks/webapp_webcli/README.md) 
    - responsible person: martin.vitousek@fs.cvut.cz
    
-1. **Artificial Intelligence** - 
 
-   - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
-   - responsible person: adam.peichl@fs.cvut.cz
 
 1. **Micropython - smart sensor** - 
 
