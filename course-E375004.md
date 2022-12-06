@@ -75,14 +75,14 @@
 
    - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
    - responsible person: adam.peichl@fs.cvut.cz
-
-## Possible following topics (it might change)
-   
+  
 1. **Control simulation** 
 
    - lecture folder: [control](courses/E375004/control)
    - task: [here](tasks/controller/controller.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
+
+## Possible following topics (it might change)
 
 1. **Full web app - part 1** 
 
