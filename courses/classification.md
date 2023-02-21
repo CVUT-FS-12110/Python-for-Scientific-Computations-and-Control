@@ -6,12 +6,12 @@ https://github.com/CVUT-FS-12110/Python/blob/master/course-E375004.md
 
 ## Classification
 
-The overall classification consists of 3 parts: weekly assignments, one extra project and active work during classes. You have to fulfill minimal score requirements in every category and obtain at least 50 points in total. For 
+The overall classification consists of 3 parts: weekly assignments, one extra project and active work during classes. You have to fulfill minimal score requirements in every category and obtain at least 50 points in total.
 
 #### Weekly assignments 
-* you will be given 8-10 assignments during the year
+* you will be given 8 assignments during the year
 * possible maximum: 80 points
-* required minimum: 40 points (50%)
+* required minimum: 20 points (25%)
 * the maximum number of points for late assignment cannot exceed 70 % of normal points.
 
 #### Extra project (optional)
@@ -23,13 +23,13 @@ The overall classification consists of 3 parts: weekly assignments, one extra pr
 * required minimum: 0 point (0%)
 
 #### Extra points (optional)
-* lecturer can grant you up to 5 activity points for your proactive approach or original solution of given tasks
-* possible maximum: 5 points
+* lecturer can grant you up to 10 activity points for your proactive approach or original solution of given tasks
+* possible maximum: 10 points
 * required minimum: 0 points (0%)
 
 ### Final grade
 * depends on the sum of all categories and fulfillment of required minimum in each category
-    * possible maximum: 135 points in total
+    * possible maximum: 140 points in total
     * required minimum: 50 points in total
 * if you won't have at least the required minimum in every category you will be classified with F
 
@@ -45,7 +45,7 @@ Grading table:
 |     <50    |    F   |
 
 ## Aditional information
-* You should solve the task assigned by the lecturer every week. If you are unable to solve it during one week, notify the lecturer. The lecturer can grant you extra time to finish the task. However, you can get max. 70 % of points. 
+* You should solve the task assigned by the lecturer every week. If you are unable to solve it during one week, notify the lecturer. The lecturer can grant you extra time to finish the task. However, you can get max. 70 % of points for late submission of the task. 
 * The correct solution of all tasks during the semester can give you up to 80 points (every task can produce an equal fraction of points from this total number).
 * Upload your solution via MS Teams assignments feature.
 * Your submission has to be runnable by Python 3.x (Jupyter notebook, .py file)
