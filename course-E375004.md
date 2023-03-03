@@ -21,3 +21,16 @@
    - Notebook d) [Virtual environment](courses/E375004/python_basics_2/basics_02d_venv.ipynb)
    - task: [Rock, paper, scissors](tasks/rock_paper_scissors)
    - responsible person: martin.vitousek@fs.cvut.cz
+
+3. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs 
+
+   - Notebook: [numpy, scipy, matplotlib](courses/E375004/numpy_matplotlib/numpy_matplotlib.ipynb)
+   - task: TBA
+   - responsible person: michal.kuchar@fs.cvut.cz
+
+4. **Data processing and visualization using pandas**
+
+   - Notebook a) [tabular data, pandas](courses/E375004/data_pandas/basics_01.ipynb)
+   - Notebook b) [COVID data example](courses/E375004/data_pandas/basics_02.ipynb)
+   - task: TBA
+   - responsible person: adam.peichl@fs.cvut.cz
