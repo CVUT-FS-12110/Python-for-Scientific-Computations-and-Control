@@ -34,3 +34,31 @@
    - Notebook b) [COVID data example](courses/E375004/data_pandas/basics_02.ipynb)
    - task: TBA
    - responsible person: adam.peichl@fs.cvut.cz
+
+5. **Multithreading** 
+
+   - Notebook: [multithreading](courses/E375004/multithreading/multithreading.ipynb)
+   - external video tutorial: [multiprocessing](https://youtu.be/fKl2JW_qrso)
+   - task: [here](tasks/multithreading/multithreading.ipynb)
+   - responsible person: michal.kuchar@fs.cvut.cz
+
+6. **Simple 2D game using pygame**
+
+   - Source code: [rocket game](courses/E375004/pygame_simulator)
+   - task: TBA
+   - responsible person: adam.peichl@fs.cvut.cz
+
+7. **Control simulation** 
+
+   - lecture folder: [control](courses/E375004/control)
+   - task: [here](tasks/controller/controller.ipynb)
+   - responsible person: michal.kuchar@fs.cvut.cz
+
+8. **Optimisation - linear programming** - 
+
+   - Source codes: [start-here](courses/E375004/optimisation/cvxpy.md)
+   - task: TBA
+   - responsible person: adam.peichl@fs.cvut.cz
+
+## Bonus Lectures
+   ...
