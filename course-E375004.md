@@ -44,7 +44,7 @@
 
 6. **Simple 2D game using pygame**
 
-   - Source code: [rocket game](courses/E375004/pygame_simulator)
+   - Source code: [rocket game](courses/E375004/pygame)
    - task: TBA
    - responsible person: adam.peichl@fs.cvut.cz
 
