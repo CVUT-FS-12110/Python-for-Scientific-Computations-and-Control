@@ -25,7 +25,7 @@
 3. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs 
 
    - Notebook: [numpy, scipy, matplotlib](courses/E375004/numpy_matplotlib/numpy_matplotlib.ipynb)
-   - task: TBA
+   - task: [Image convolution](tasks/EN_numpy_convolution_filter.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
 4. **Data processing and visualization using pandas**
