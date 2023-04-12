@@ -61,4 +61,33 @@
    - responsible person: adam.peichl@fs.cvut.cz
 
 ## Bonus Lectures
-   ...
+
+1. **Artificial Intelligence**
+
+   - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
+   - responsible person: adam.peichl@fs.cvut.cz
+
+1. **Advanced virtual environments**
+
+   - Source codes: TBA
+   - responsible person: martin.vitousek@fs.cvut.cz
+
+
+1. **API - FastApi** 
+
+   - Source codes: [start-here](courses/E375004/webapp_api/README.md), codes
+        are in `courses/E375004/webapp_api`
+   - responsible person: adam.peichl@fs.cvut.cz
+
+
+1. **Frontend app - Streamlit** 
+
+   - Source codes: TBA
+   - responsible person: michal.kuchar@fs.cvut.cz
+
+
+1. **Micropython - smart sensor**
+
+   - Source codes: [start-here](courses/E375004/micropython_smart_sensor/README.md)
+     - Resources: [micropython](courses/E375004/micropython_smart_sensor)
+   - responsible person: martin.vitousek@fs.cvut.cz
