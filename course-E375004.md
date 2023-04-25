@@ -69,7 +69,7 @@
 
 1. **Advanced virtual environments**
 
-   - Source codes: TBA
+   - Source codes: [start-here](courses/E375004/poetry_introduction/poetry_introduction.ipynb)
    - responsible person: martin.vitousek@fs.cvut.cz
 
 
