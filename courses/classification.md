@@ -11,8 +11,8 @@ The overall classification consists of 3 parts: weekly assignments, one extra pr
 #### Weekly assignments 
 * you will be given 8 assignments during the year
 * possible maximum: 80 points
-* required minimum: 20 points (25%)
-* the maximum number of points for late assignment cannot exceed 70 % of normal points.
+* required minimum: 40 points (50 %)
+* the maximum number of points for late assignment cannot exceed 60 % of normal points.
 
 #### Extra project (optional)
 * extra project
