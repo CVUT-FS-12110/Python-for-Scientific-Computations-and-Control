@@ -45,7 +45,7 @@ Grading table:
 |     <50    |    F   |
 
 ## Aditional information
-* You should solve the task assigned by the lecturer every week. If you are unable to solve it during one week, notify the lecturer. The lecturer can grant you extra time to finish the task. However, you can get max. 70 % of points for late submission of the task. 
+* You should solve the task assigned by the lecturer every week. If you are unable to solve it during one week, notify the lecturer. The lecturer can grant you extra time to finish the task. However, you can get max. 60 % of points for late submission of the task. 
 * The correct solution of all tasks during the semester can give you up to 80 points (every task can produce an equal fraction of points from this total number).
 * Upload your solution via Moodle assignments feature.
 * Your submission has to be runnable by Python 3.x (Jupyter notebook, .py file)
