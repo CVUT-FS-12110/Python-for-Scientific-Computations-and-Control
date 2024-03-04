@@ -19,7 +19,7 @@
    - Notebook b) [Classes and objects](courses/E375004/python_basics_2/basics_02b_oop.ipynb)
    - Notebook c) [File manipulation](courses/E375004/python_basics_2/basics_02c_files.ipynb)
    - Notebook d) [Virtual environment](courses/E375004/python_basics_2/basics_02d_venv.ipynb)
-   - task: TBA
+   - task: [Rock, paper, scissors](https://github.com/CVUT-FS-12110/Python-for-Scientific-Computations-and-Control/tree/master/tasks/rock_paper_scissors)
    - responsible person: martin.vitousek@fs.cvut.cz
 
 3. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs (Week 11 March - 15 March)
