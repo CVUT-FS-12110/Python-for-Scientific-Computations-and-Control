@@ -2,7 +2,7 @@
 
 "SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. SymPy is written entirely in Python."
 
-## Symbolically deriving equations of motion
+## Symbolically derived Equations of Motion
 
 While there is an abundance of physics engines for simulating multibody dynamics ([Mujoco](https://mujoco.org/), [Drake](https://drake.mit.edu/), [Dart](https://dartsim.github.io/), ...) it is still often useful to have analytically derived equations of motion. During your studies you might have come across Lagrangian mechanics, specifically Lagrange's equations of the second kind
 $$\frac{\mathrm{d}}{\mathrm{d}t}\left(\frac{\partial L}{\partial \mathbf{\dot{q}}}\right) - \frac{\partial L}{\partial \mathbf{q}} = \tau ,$$
