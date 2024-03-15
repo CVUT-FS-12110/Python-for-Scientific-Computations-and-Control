@@ -50,7 +50,9 @@ $$
 $$
 T = \frac{1}{2}\left( m_c  \dot{s}^2 + m_p  \left( \dot{x}_p^2 + \dot{y}_p^2 \right) \right) ,
 $$
+
 where
+
 $$
 \begin{aligned}
 \dot{x}_p &= \dot{s} + l \dot{\theta} \cos(\theta) \\
