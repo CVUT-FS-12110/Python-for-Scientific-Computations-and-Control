@@ -3,6 +3,7 @@
 ## Linear Programming
 
 Let us consider a constrained optimization problem in the form
+
 $$
 \begin{aligned}
 	\max_{\mathbf{x}} & \quad \mathbf{c}^\top \mathbf{x} \\
@@ -89,12 +90,14 @@ $$
 ## Quadratic Programming
 
 Let us consider a constrained optimization problem in the form
+
 $$
 \begin{aligned}
 	\min_{\mathbf{x}} & \quad \frac{1}{2} \mathbf{x}^\top \mathbf{Q} \mathbf{x} + \mathbf{c}^\top \mathbf{x} \\
 	\text{s.t.} & \quad \mathbf{A} \mathbf{x} \leq \mathbf{b} ,
 \end{aligned}
 $$
+
 where $\mathbf{Q} \succeq 0$.
 
 ### Economic dispatch
@@ -107,9 +110,10 @@ We have three power plants each producing electricity to satisfy the demand of $
 | 3           | 30    | 3     | 0.01  | 100               | 800               |
 
 #### Mathematical model
+
 $$
 \begin{aligned}
-	\min_{\{P_i\}_{i=1}^3} & \quad \sum_{i=1}^{3} a_i + b_i P_i + c_i P_i^2 \\
+	\min_{P_1,P_2,P_3} & \quad \sum_{i=1}^{3} a_i + b_i P_i + c_i P_i^2 \\
 	\text{s.t.} & \quad \sum_{i=1}^{3} P_i = P_{\Sigma} \\
 	            & \quad P_{i_{\min}} \leq P_i \leq P_{i_{\min}} ,\quad i = 1, \ldots, 3\\
 \end{aligned}
