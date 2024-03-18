@@ -50,7 +50,7 @@
 
 7. **Model Predictive Control** (Week 8 April - 12 April)
 
-   - Source codes: TBA
+   - [Introduction](courses/E375004/model_predictive_control/introduction.md)
    - task: TBA
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
