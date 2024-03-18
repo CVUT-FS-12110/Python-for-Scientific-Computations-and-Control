@@ -36,21 +36,21 @@
    - responsible person: michal.kuchar@fs.cvut.cz
 
 
-5. **Simulations of mechanical systems using MuJoCo** (Week 25 March - 29 March)
+5. **Sympy - Equations of Motion** (Week 25 March - 29 March)
 
-   - Source code: TBA
+   - [Introduction](courses/E375004/sympy/introduction.md)
    - task: TBA
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
-6. **Control of mechanical systems** (Week 1 April - 5 April)
+6. **Convex optimization** (Week 1 April - 5 April)
 
    - Source codes: TBA
    - task: TBA
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
-7. **Optimisation - linear programming** (Week 8 April - 12 April)
+7. **Model Predictive Control** (Week 8 April - 12 April)
 
-   - Source codes: [start-here](courses/E375004/optimisation/cvxpy.md)
+   - Source codes: TBA
    - task: TBA
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
