@@ -9,7 +9,7 @@
 
    - Notebook a) [intro](courses/intro.md)
    - Notebook b) [Program flow](courses/E375004/python_basics_1/basics_01.ipynb)
-   - task: [Ceasar cipher encryption](https://github.com/CVUT-FS-12110/Python-for-Scientific-Computations-and-Control/blob/master/tasks/EN_Ceasar_cipher_encryption.ipynb)
+   - task: [Caesar cipher encryption](https://github.com/CVUT-FS-12110/Python-for-Scientific-Computations-and-Control/blob/master/tasks/EN_Caesar_cipher_encryption.ipynb)
    - responsible person: martin.vitousek@fs.cvut.cz
    
 2. **Python Basics 2** - functions, classes, files and venv (Week 4 March - 8 March)
