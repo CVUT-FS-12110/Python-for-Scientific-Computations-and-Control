@@ -85,7 +85,7 @@ $$
 $$
 
 #### Code
-- [python - CVXPY](flow.py)
+- [CVXPY](flow.py)
 
 ## Quadratic Programming
 
