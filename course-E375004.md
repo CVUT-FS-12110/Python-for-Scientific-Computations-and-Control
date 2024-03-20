@@ -25,10 +25,28 @@
 3. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs (Week 11 March - 15 March)
 
    - Notebook: [numpy, scipy, matplotlib](courses/E375004/numpy_matplotlib/numpy_matplotlib.ipynb)
-   - task: TBA
+   - task: [image convolution](tasks/convolution/EN_numpy_convolution_filter.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
-4. **Data processing and visualization using pandas** (Week 18 March - 22 March)
+4. **Sympy - Equations of Motion** (Week 18 March - 22 March)
+
+   - [Introduction](courses/E375004/sympy/introduction.md)
+   - task: No task this week
+   - responsible person: juraj.lieskovsky@fs.cvut.cz
+
+5. **Convex optimization** (Week 25 March - 29 March)
+
+   - [Introduction](courses/E375004/optimization/introduction.md)
+   - task: TBA
+   - responsible person: juraj.lieskovsky@fs.cvut.cz
+
+6. **Model Predictive Control** (Week 8 April - 12 April)
+
+   - [Introduction](courses/E375004/model_predictive_control/introduction.md)
+   - task: TBA
+   - responsible person: juraj.lieskovsky@fs.cvut.cz
+
+7. **Data processing and visualization using pandas** (Week 15 April - 19 April)
 
    - Notebook a) [tabular data, pandas](courses/E375004/data_pandas/basics_01.ipynb)
    - Notebook b) [COVID data example](courses/E375004/data_pandas/basics_02.ipynb)
@@ -36,25 +54,7 @@
    - responsible person: michal.kuchar@fs.cvut.cz
 
 
-5. **Sympy - Equations of Motion** (Week 25 March - 29 March)
-
-   - [Introduction](courses/E375004/sympy/introduction.md)
-   - task: TBA
-   - responsible person: juraj.lieskovsky@fs.cvut.cz
-
-6. **Convex optimization** (Week 1 April - 5 April)
-
-   - [Introduction](courses/E375004/optimization/introduction.md)
-   - task: TBA
-   - responsible person: juraj.lieskovsky@fs.cvut.cz
-
-7. **Model Predictive Control** (Week 8 April - 12 April)
-
-   - [Introduction](courses/E375004/model_predictive_control/introduction.md)
-   - task: TBA
-   - responsible person: juraj.lieskovsky@fs.cvut.cz
-
-8. **Multithreading (asyncio)** (Week 15 April - 19 April)
+8. **Multithreading (asyncio)** (Week 22 April - 26 April)
 
    - Notebook: [multithreading](courses/E375004/multithreading/multithreading.ipynb)
    - external video tutorial: [multiprocessing](https://youtu.be/fKl2JW_qrso)
@@ -62,25 +62,25 @@
    - responsible person: martin.vitousek@fs.cvut.cz
 
 
-9. **Artificial Intelligence I.** (Week 22 April - 26 April)
+9. **Artificial Intelligence I.** (Week 29 April - 3 May)
 
    - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
    - responsible person: adam.peichl@fs.cvut.cz
 
 
-10. **Artificial Intelligence II.** (Week 29 April - 3 May)
+10. **Artificial Intelligence II.** (Week 6 May - 10 May)
 
     - Source codes: TBA
     - responsible person: adam.peichl@fs.cvut.cz
 
 
-11. **Requests, database, API** (Week 6 May - 10 May)
+11. **Requests, database, API** (Week 13 May - 17 May)
 
     - Source codes: TBA
     - responsible person: martin.vitousek@fs.cvut.cz
 
 
-12. **Web app using Streamlit** (Week 13 May - 17 May)
+12. **Web app using Streamlit** (Week 20 May - 24 May)
 
     - Source codes: TBA
     - responsible person: michal.kuchar@fs.cvut.cz
