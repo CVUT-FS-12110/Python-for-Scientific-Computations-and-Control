@@ -44,13 +44,13 @@
 
 6. **Convex optimization** (Week 1 April - 5 April)
 
-   - Source codes: TBA
+   - [Introduction](courses/E375004/optimization/introduction.md)
    - task: TBA
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
 7. **Model Predictive Control** (Week 8 April - 12 April)
 
-   - Source codes: TBA
+   - [Introduction](courses/E375004/model_predictive_control/introduction.md)
    - task: TBA
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
