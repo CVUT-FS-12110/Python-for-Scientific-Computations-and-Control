@@ -24,7 +24,7 @@ ydot_p = sp.diff(theta, t) * l * sp.sin(theta)
 
 ## kinetic and potential energy
 T = 0.5 * m_c * sp.diff(s, t) ** 2 + 0.5 * m_p * (xdot_p**2 + ydot_p**2)
-V = g * m_p * l * sp.cos(theta)
+V = g * m_p * l * (1 - sp.cos(theta))
 
 ## terms of EoM
 mass_matrix = sp.hessian(T, sp.diff(q, t))  # M
@@ -51,7 +51,7 @@ bias_terms_num = sp.lambdify((q, sp.diff(q, t)), bias_terms_subs, "numpy")
 potential_terms_num = sp.lambdify((q,), potential_terms_subs, "numpy")
 
 ## comparison of substitution's and numpy function's evaluation times
-# q_bench = np.array([0, np.pi / 4])
+# q_bench = np.array([0, 3 * np.pi / 4])
 # qdot_bench = np.array([0, 0])
 
 # st = time.time()
@@ -96,7 +96,7 @@ def dynamics(_, x):
 solver = ode(dynamics).set_integrator("dopri5")
 
 t0 = 0.0
-y0 = np.array([0, np.pi / 4, 0, 0])
+y0 = np.array([0, 3 * np.pi / 4, 0, 0])
 t1 = 10.0
 
 solver.set_initial_value(y0, t0)
@@ -104,7 +104,7 @@ t_values = [t0]
 y_values = [y0]
 
 while solver.successful() and solver.t < t1:
-    solver.integrate(solver.t + 1e-1)
+    solver.integrate(solver.t + 1e-2)
     t_values.append(solver.t)
     y_values.append(solver.y)
 
