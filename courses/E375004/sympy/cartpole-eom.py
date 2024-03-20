@@ -19,11 +19,11 @@ q = sp.Matrix([s, theta])
 g, l, m_c, m_p = sp.symbols("g, l m_c m_p")
 
 ## velocity of the mass
-vx = sp.diff(s, t) - sp.diff(theta, t) * l * sp.cos(theta)
-vy = -sp.diff(theta, t) * l * sp.sin(theta)
+xdot_p = sp.diff(s, t) + sp.diff(theta, t) * l * sp.cos(theta)
+ydot_p = sp.diff(theta, t) * l * sp.sin(theta)
 
 ## kinetic and potential energy
-T = 0.5 * m_c * sp.diff(s, t) ** 2 + 0.5 * m_p * (vx**2 + vy**2)
+T = 0.5 * m_c * sp.diff(s, t) ** 2 + 0.5 * m_p * (xdot_p**2 + ydot_p**2)
 V = g * m_p * l * sp.cos(theta)
 
 ## terms of EoM
