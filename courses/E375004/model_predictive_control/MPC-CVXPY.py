@@ -3,9 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Discrete time state-space representation
-dt = 1e-2
-A = np.eye(4) + np.array([[0, 0, 1, 0], [0, 0, 0, 1], [0, 0, 0, 0], [0, 0, 0, 0]]) * dt
-B = np.array([[0, 0], [0, 0], [1, 0], [0, 1]]) * dt
+h = 1e-2
+A = np.eye(4) + np.array([[0, 0, 1, 0], [0, 0, 0, 1], [0, 0, 0, 0], [0, 0, 0, 0]]) * h
+B = np.array([[0, 0], [0, 0], [1, 0], [0, 1]]) * h
 
 # Optimal control problem
 N = 100  # MPC horizon
@@ -23,17 +23,20 @@ x = cp.Variable((4, N + 1))
 u = cp.Variable((2, N))
 x_init = cp.Parameter(4)
 
-## constraints and cost
+## cost and constraints
+state_cost = sum([cp.quad_form(x[:, i], Q) for i in range(N + 1)])
+input_cost = sum([cp.quad_form(u[:, i], R) for i in range(N)])
+objective = cp.Minimize(state_cost + input_cost)
+
 constraints = [
     x[:, 0] == x_init,
     x[:, 1:N] == A @ x[:, 0 : N - 1] + B @ u[:, 0 : N - 1],
     -u_max <= u,
     u <= u_max,
 ]
-cost = cp.sum_squares(np.sqrt(Q) @ x) + cp.sum_squares(np.sqrt(R) @ u)
 
 ## problem
-prob = cp.Problem(cp.Minimize(cost), constraints)
+prob = cp.Problem(objective, constraints)
 
 # MPC simulation
 ## pre-allocation
