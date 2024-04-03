@@ -79,9 +79,11 @@ $$
 	            & \quad x_9 = x_5 + x_7 \\
 \end{aligned}
 $$
+
 where
+
 $$
-\mathbf{u}^\top = \begin{bmatrix} 5 & 10 & 8 & 6 & 2 & 4 & 5 & 8 & 9 \end{bmatrix}
+\mathbf{u} = \begin{bmatrix} 5 & 10 & 8 & 6 & 2 & 4 & 5 & 8 & 9 \end{bmatrix}^\top
 $$
 
 #### Code
