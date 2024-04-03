@@ -54,7 +54,9 @@ $$
 
 on the controllers inputs.
 
-
 ### Code
+1. Trajectory optimization for a horizon of N=1000 steps
+- [CVXPY](TO-CVXPY.py)
+2. MPC with a horizon of N=100 steps simulated for M=1000 steps with noise
 - [CVXPY](MPC-CVXPY.py)
 
