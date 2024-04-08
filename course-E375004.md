@@ -31,20 +31,27 @@
 4. **Sympy - Equations of Motion** (Week 18 March - 22 March)
 
    - [Introduction](courses/E375004/sympy/introduction.md)
-   - task: No task this week
+   - task: Derive an equation / set of equations that require derivatives to be taken
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
 5. **Convex optimization** (Week 25 March - 29 March)
 
    - [Introduction](courses/E375004/optimization/introduction.md)
-   - task: TBA
+   - task: Solve an optimization problem of your chooosing
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
 6. **Model Predictive Control** (Week 8 April - 12 April)
 
    - [Introduction](courses/E375004/model_predictive_control/introduction.md)
-   - task: TBA
+   - task: None
    - responsible person: juraj.lieskovsky@fs.cvut.cz
+
+6.5 **Mujoco**
+
+   - Controlled Cart-Pole
+      - LQR: TBA
+      - MPC: TBA
+   - task: None
 
 7. **Data processing and visualization using pandas** (Week 15 April - 19 April)
 
