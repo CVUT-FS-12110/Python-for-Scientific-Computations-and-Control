@@ -40,20 +40,21 @@
    - task: Solve an optimization problem of your chooosing
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
-6. **Model Predictive Control** (Week 8 April - 12 April)
+6. **Model Predictive Control** (Weeks 25 March - 12 April)
 
    - [Introduction](courses/E375004/model_predictive_control/introduction.md)
    - task: None
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
-6.5 **Mujoco**
+7. **Simulation of mechanical systems using Mujoco** (Week 8 April - 12 April)
 
    - Controlled Cart-Pole
       - LQR: TBA
       - MPC: TBA
    - task: None
+   - responsible person: juraj.lieskovsky@fs.cvut.cz
 
-7. **Data processing and visualization using pandas** (Week 15 April - 19 April)
+8. **Data processing and visualization using pandas** (Week 15 April - 19 April)
 
    - Notebook a) [tabular data, pandas](courses/E375004/data_pandas/basics_01.ipynb)
    - Notebook b) [COVID data example](courses/E375004/data_pandas/basics_02.ipynb)
@@ -61,7 +62,7 @@
    - responsible person: michal.kuchar@fs.cvut.cz
 
 
-8. **Multithreading (asyncio)** (Week 22 April - 26 April)
+9. **Multithreading (asyncio)** (Week 22 April - 26 April)
 
    - Notebook: [multithreading](courses/E375004/multithreading/multithreading.ipynb)
    - external video tutorial: [multiprocessing](https://youtu.be/fKl2JW_qrso)
@@ -69,25 +70,25 @@
    - responsible person: martin.vitousek@fs.cvut.cz
 
 
-9. **Artificial Intelligence I.** (Week 29 April - 3 May)
+10. **Artificial Intelligence I.** (Week 29 April - 3 May)
 
    - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
    - responsible person: adam.peichl@fs.cvut.cz
 
 
-10. **Artificial Intelligence II.** (Week 6 May - 10 May)
+11. **Artificial Intelligence II.** (Week 6 May - 10 May)
 
     - Source codes: TBA
     - responsible person: adam.peichl@fs.cvut.cz
 
 
-11. **Requests, database, API** (Week 13 May - 17 May)
+12. **Requests, database, API** (Week 13 May - 17 May)
 
     - Source codes: TBA
     - responsible person: martin.vitousek@fs.cvut.cz
 
 
-12. **Web app using Streamlit** (Week 20 May - 24 May)
+13. **Web app using Streamlit** (Week 20 May - 24 May)
 
     - Source codes: TBA
     - responsible person: michal.kuchar@fs.cvut.cz
