@@ -49,8 +49,8 @@
 7. **Simulation of mechanical systems using Mujoco** (Week 8 April - 12 April)
 
    - Controlled Cart-Pole
-      - LQR: TBA
-      - MPC: TBA
+      - [LQR](courses/E375004/mujoco/cartpole_control_LQR.ipynb)
+      - [MPC](courses/E375004/mujoco/cartpole_control_MPC.ipynb)
    - task: None
    - responsible person: juraj.lieskovsky@fs.cvut.cz
 
