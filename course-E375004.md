@@ -58,7 +58,7 @@
 
    - Notebook a) [tabular data, pandas](courses/E375004/data_pandas/basics_01.ipynb)
    - Notebook b) [COVID data example](courses/E375004/data_pandas/basics_02.ipynb)
-   - task: TBA
+   - task: [covid data](tasks/EN_pandas_covid_2.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
 
@@ -82,16 +82,16 @@
     - responsible person: adam.peichl@fs.cvut.cz
 
 
-12. **Requests, database, API** (Week 13 May - 17 May)
+12. **Web app using Streamlit** (Week 13 May - 17 May)
+
+    - Source codes: TBA
+    - responsible person: michal.kuchar@fs.cvut.cz
+
+13. **Requests, database, API** (Week 20 May - 24 May)
 
     - Source codes: TBA
     - responsible person: martin.vitousek@fs.cvut.cz
 
-
-13. **Web app using Streamlit** (Week 20 May - 24 May)
-
-    - Source codes: TBA
-    - responsible person: michal.kuchar@fs.cvut.cz
 
 
 
