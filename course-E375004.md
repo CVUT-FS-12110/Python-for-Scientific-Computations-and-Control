@@ -63,11 +63,10 @@
    - responsible person: michal.kuchar@fs.cvut.cz
 
 
-9. **Multithreading (asyncio)** (Week 22 April - 26 April)
+9. **Asyncio** (Week 22 April - 26 April)
 
-   - Notebook: [multithreading](courses/E375004/multithreading/multithreading.ipynb)
-   - external video tutorial: [multiprocessing](https://youtu.be/fKl2JW_qrso)
-   - task: TBA
+   - Notebook: [asyncio](courses/E375004/asyncio/asyncio.ipynb)
+   - task: [CTUSS Commander](tasks/ctuss_commander/README.md)
    - responsible person: martin.vitousek@fs.cvut.cz
 
 
@@ -92,7 +91,3 @@
 
     - Source codes: TBA
     - responsible person: martin.vitousek@fs.cvut.cz
-
-
-
-
