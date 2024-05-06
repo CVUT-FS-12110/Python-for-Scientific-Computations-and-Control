@@ -72,14 +72,14 @@
 
 10. **Artificial Intelligence I.** (Week 29 April - 3 May)
 
-   - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
-   - responsible person: adam.peichl@fs.cvut.cz
+    - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
+    - responsible person: adam.peichl@fs.cvut.cz
 
 
 11. **Artificial Intelligence II.** (Week 6 May - 10 May)
 
     - Source codes: TBA
-    - responsible person: adam.peichl@fs.cvut.cz
+    - responsible person: michal.kuchar@fs.cvut.cz
 
 
 12. **Web app using Streamlit** (Week 13 May - 17 May)
