@@ -78,7 +78,7 @@
 
 11. **Artificial Intelligence II.** (Week 6 May - 10 May)
 
-    - Source codes: TBA
+    - Source codes: [start-here](courses/E375004/ai_chapter2/ai_chapter2.md)
     - responsible person: michal.kuchar@fs.cvut.cz
 
 
