@@ -80,6 +80,7 @@
 
     - Source codes: [start-here](courses/E375004/ai_chapter2/ai_chapter2.md)
     - responsible person: michal.kuchar@fs.cvut.cz
+    - task: [Activation Functions](tasks/EN_Activation_Functions.ipynb)
 
 
 12. **Web app using Streamlit** (Week 13 May - 17 May)
