@@ -85,7 +85,7 @@
 
 12. **Web app using Streamlit** (Week 13 May - 17 May)
 
-    - Source codes: TBA
+    - Source codes: [streamlit folder:](courses/E375004/streamlit)
     - responsible person: michal.kuchar@fs.cvut.cz
 
 13. **Requests, database, API** (Week 20 May - 24 May)
