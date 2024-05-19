@@ -3,6 +3,10 @@
 
 ## [Classification](courses/classification.md)
 
+## Note
+
+In case of getting error while accessing jupyter notebooks from our repository, use https://nbviewer.org and provide the link to the notebook you need to open. This is unfortunately not an error on our side and we cannot do anything about that.
+
 ## Sylabus
 
 1. **Python Basics 1** - installation, IDEs, data types, for, while, if, functions (Week 26 February - 1 March)
