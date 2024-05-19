@@ -90,5 +90,10 @@
 
 13. **Requests, database, API** (Week 20 May - 24 May)
 
-    - Source codes: TBA
+    - Using HTTP protocol: [Requests](courses/E375004/requests_api_db/requests.ipynb)
+    - Building own API: [FastAPI](courses/E375004/requests_api_db/fastapi.ipynb)
+    - Exploring database: [sqlite](courses/E375004/requests_api_db/sqlite_db.ipynb)
+    - Example application: [user_register](courses/E375004/requests_api_db/user_register.ipynb)
+    - Complete lecture code in one file: [main.py](courses/E375004/requests_api_db/main.py)
+        - run with `fastapi dev main.py`
     - responsible person: martin.vitousek@fs.cvut.cz
