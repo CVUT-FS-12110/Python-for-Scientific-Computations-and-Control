@@ -52,7 +52,7 @@ In case of getting error while accessing jupyter notebooks from our repository, 
 6. **Sympy - Equations of Motion** (Week 31 March - 4 April)
 
    - Notebook: TBA
-   - task: TBA
+   - task: No task this week
    - responsible person: michal.kuchar@fs.cvut.cz
 
 
@@ -65,7 +65,7 @@ In case of getting error while accessing jupyter notebooks from our repository, 
 8. **Artificial Intelligence I.** (Week 14 April - 18 April)
 
     - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
-    - Task: TBA
+    - Task: No task this week
     - responsible person: michal.kuchar@fs.cvut.cz
 
 
