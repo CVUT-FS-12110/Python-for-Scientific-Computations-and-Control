@@ -8,6 +8,7 @@
 In case of getting error while accessing jupyter notebooks from our repository, use https://nbviewer.org and provide the link to the notebook you need to open. This is unfortunately not an error on our side and we cannot do anything about that.
 
 ## Sylabus
+The classes are designed as workshops. The lecturer shows you a tutorial in the first 90 minutes and the other 90 minutes is for your own work on given tasks. The lecturer is there for consultation.
 
 0. **Course introduction** - Course information, Python installation, IDEs, "Hello World" (Week 17 February - 21 february)
 
