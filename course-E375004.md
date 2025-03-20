@@ -20,7 +20,7 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
    - task: [Caesar cipher encryption](https://github.com/CVUT-FS-12110/Python-for-Scientific-Computations-and-Control/blob/master/tasks/EN_Caesar_cipher_encryption.ipynb)
    - responsible person: katerina.kobrlova@fs.cvut.cz
    
-2. **Python Basics 2** - functions, classes, files and venv (Week 3 March - 7 March)
+1. **Python Basics 2** - functions, classes, files and venv (Week 3 March - 7 March)
 
    - study any introduction to Python classes, for example: [W3Schools](https://www.w3schools.com/python/python_classes.asp) (easy to understand) or [Python docs](https://docs.python.org/3/tutorial/classes.html) (more detailed)
    - Notebook a) [Advanced functions](courses/E375004/python_basics_2/basics_02a_functions_adv.ipynb)
@@ -30,13 +30,14 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
    - task: [Rock, paper, scissors](https://github.com/CVUT-FS-12110/Python-for-Scientific-Computations-and-Control/tree/master/tasks/rock_paper_scissors)
    - responsible person: martin.vitousek@fs.cvut.cz
 
-3. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs (Week 10 March - 14 March)
+1. **Math and visualization** - work with packages: numpy, scipy, matplotlib - linear algebra, calculus, graphs (Week 10 March - 14 March)
 
    - Notebook: [numpy, scipy, matplotlib](courses/E375004/numpy_matplotlib/numpy_matplotlib.ipynb)
    - task: [image convolution](tasks/convolution/EN_numpy_convolution_filter.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
-4. **Data processing and visualization using pandas** (Week 17 March - 21 March)
+
+1. **Data processing and visualization using pandas** (Week 17 March - 21 March)
 
    - Notebook a) [tabular data, pandas](courses/E375004/data_pandas/basics_01.ipynb)
    - Notebook b) [COVID data example](courses/E375004/data_pandas/basics_02.ipynb)
@@ -44,45 +45,52 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
    - task: [covid data](tasks/EN_pandas_covid_2.ipynb)
    - responsible person: katerina.kobrlova@fs.cvut.cz
 
-5. **Optimisation - linear programming** (Week 24 March - 28 March)
+1. **Asyncio** (Week 24 March - 28 March)
+
+   - Notebook: [asyncio](courses/E375004/asyncio/asyncio.ipynb)
+   - task: [CTUSS Commander](tasks/ctuss_commander/README.md)
+   - responsible person: martin.vitousek@fs.cvut.cz
+
+1. **Optimisation - linear programming** (Week 31 March - 4 April)
 
    - Lecture: [start-here](courses/E375004/optimisation/cvxpy.md)
    - task: [Optimizing phone factory](tasks/EN_cvxpy_factory.ipynb)
    - responsible person: adam.peichl@fs.cvut.cz
 
-6. **Sympy - Equations of Motion** (Week 31 March - 4 April)
+1. **Sympy - Equations of Motion** (Weeks 7 April - 11 April)
 
    - Notebook: TBA
    - task: No task this week
    - responsible person: michal.kuchar@fs.cvut.cz
 
 
-7. **Control of mechanical systems** (Weeks 7 April - 11 April)
+1. **Control of mechanical systems** (Week 14 April - 18 April)
 
    - Notebook: TBA
    - task: TBA
    - responsible person: michal.kuchar@fs.cvut.cz
 
-8. **Artificial Intelligence I.** (Week 14 April - 18 April)
+1. **Artificial Intelligence I.** (Week 21 April - 25 April)
 
     - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
     - Task: No task this week
     - responsible person: michal.kuchar@fs.cvut.cz
 
 
-9. **Artificial Intelligence II.** (Week 21 April - 25 April)
+1. **Artificial Intelligence II.** (Week 28 April - 2 May)
 
     - Source codes: [start-here](courses/E375004/ai_chapter2/ai_chapter2.md)
     - responsible person: katerina.kobrlova@fs.cvut.cz
     - task: TBA
 
-10. **Asyncio** (Week 28 April - 2 May)
 
-       - Notebook: [asyncio](courses/E375004/asyncio/asyncio.ipynb)
-       - task: [CTUSS Commander](tasks/ctuss_commander/README.md)
-       - responsible person: martin.vitousek@fs.cvut.cz
+1. **Web app using Streamlit** (Week 5 May - 9 May)
 
-11. **Requests, database, API** (Week 5 May - 9 May)
+    - Source codes: [streamlit folder:](courses/E375004/streamlit)
+    - responsible person: michal.kuchar@fs.cvut.cz
+
+
+1. **Requests, database, API** (Week 12 May - 16 May)
 
     - Using HTTP protocol: [Requests](courses/E375004/requests_api_db/requests.ipynb)
     - Building own API: [FastAPI](courses/E375004/requests_api_db/fastapi.ipynb)
@@ -92,7 +100,3 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
         - run with `fastapi dev main.py`
     - responsible person: martin.vitousek@fs.cvut.cz
 
-12. **Web app using Streamlit** (Week 12 May - 16 May)
-
-    - Source codes: [streamlit folder:](courses/E375004/streamlit)
-    - responsible person: michal.kuchar@fs.cvut.cz
