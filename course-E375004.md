@@ -76,19 +76,16 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
     - Task: No task this week
     - responsible person: michal.kuchar@fs.cvut.cz
 
+1. **Dean's Day Off** (Week 28 April - 2 May)
 
-1. **Artificial Intelligence II.** (Week 28 April - 2 May)
+    - Enjoy free day or student's conference [https://stc.fs.cvut.cz](https://stc.fs.cvut.cz)
+
+
+1. **Artificial Intelligence II.** (Week 5 May - 9 May)
 
     - Source codes: [start-here](courses/E375004/ai_chapter2/ai_chapter2.md)
     - responsible person: katerina.kobrlova@fs.cvut.cz
     - task: TBA
-
-
-1. **Web app using Streamlit** (Week 5 May - 9 May)
-
-    - Source codes: [streamlit folder:](courses/E375004/streamlit)
-    - responsible person: michal.kuchar@fs.cvut.cz
-
 
 1. **Requests, database, API** (Week 12 May - 16 May)
 
@@ -99,4 +96,10 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
     - Complete lecture code in one file: [main.py](courses/E375004/requests_api_db/main.py)
         - run with `fastapi dev main.py`
     - responsible person: martin.vitousek@fs.cvut.cz
+
+1. **Web app using Streamlit** (Week 19 May - 23 May)
+
+    - Source codes: [streamlit folder:](courses/E375004/streamlit)
+    - responsible person: michal.kuchar@fs.cvut.cz
+
 
