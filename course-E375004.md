@@ -78,7 +78,7 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
 
 1. **Dean's Day Off** (Week 28 April - 2 May)
 
-    - Enjoy free day or student's conference [https://stc.fs.cvut.cz](https://stc.fs.cvut.cz)
+    - Enjoy free day or student conference [https://stc.fs.cvut.cz](https://stc.fs.cvut.cz)
 
 
 1. **Artificial Intelligence II.** (Week 5 May - 9 May)
