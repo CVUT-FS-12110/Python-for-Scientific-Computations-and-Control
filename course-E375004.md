@@ -59,24 +59,26 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
 
 1. **Sympy - Equations of Motion** (Weeks 7 April - 11 April)
 
-   - Notebook: TBA
+   - Basics. Point mass and gravity: [notebook 1](courses/E375004/lagrange2eom/lagrangian_point_mass.ipynb)
+   - Spring mass damper:  [notebook 2](courses/E375004/lagrange2eom/lagrangian_mass_spring_damper_gravity.ipynb)
+   - Pendulum on a cart: [notebook 2](courses/E375004/lagrange2eom/lagrangian_cart_rigid_pendulum_with_force.ipynb)
    - task: No task this week
    - responsible person: michal.kuchar@fs.cvut.cz
 
 
-1. **Control of mechanical systems** (Week 14 April - 18 April)
+2. **Control of mechanical systems** (Week 14 April - 18 April)
 
    - Notebook: TBA
    - task: TBA
    - responsible person: michal.kuchar@fs.cvut.cz
 
-1. **Artificial Intelligence I.** (Week 21 April - 25 April)
+3. **Artificial Intelligence I.** (Week 21 April - 25 April)
 
     - Source codes: [start-here](courses/E375004/ai_chapter1/ai_chapter1.md)
     - Task: No task this week
     - responsible person: michal.kuchar@fs.cvut.cz
 
-1. **Dean's Day Off** (Week 28 April - 2 May)
+4. **Dean's Day Off** (Week 28 April - 2 May)
 
     - Enjoy free day or student conference [https://stc.fs.cvut.cz](https://stc.fs.cvut.cz)
 
