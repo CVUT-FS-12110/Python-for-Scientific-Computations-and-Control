@@ -68,7 +68,8 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
 
 2. **Control of mechanical systems** (Week 14 April - 18 April)
 
-   - Notebook: TBA
+   - Euler solver of pendulum on a cart: [notebook 1](courses/E375004/lagrange2eom/cartpole_solver_tutorial.ipynb)
+   - PyGame simulator of a pendulum on a cart: [folder](courses/E375004/control2/)
    - task: TBA
    - responsible person: michal.kuchar@fs.cvut.cz
 
