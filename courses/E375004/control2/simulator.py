@@ -24,7 +24,7 @@ state = [4.0, 0.0, 0.2, 0.0]  # x in meters
 t = 0.0
 
 # At the top
-pid = utils.PIDController(Kp=6, Ki=1, Kd=10)
+pid = utils.PIDController(Kp=3, Ki=0.5, Kd=2)
 target_position = 5  # desired position of the cart
 
 
