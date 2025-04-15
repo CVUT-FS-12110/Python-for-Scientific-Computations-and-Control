@@ -105,10 +105,8 @@ while running:
     target_x_px = target_position * px_per_meter
     pygame.draw.line(screen, (200, 0, 0), (target_x_px, 0), (target_x_px, height), 1)
 
-    # --- Flip Frame ---
-    pygame.display.flip()
+    # --- Update Frame ---
+    pygame.display.update()
 
-    # Optional: print FPS
-    # print(f"FPS: {clock.get_fps():.1f}")
 
 pygame.quit()
