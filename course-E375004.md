@@ -70,7 +70,7 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
 
    - Euler solver of pendulum on a cart: [notebook 1](courses/E375004/lagrange2eom/cartpole_solver_tutorial.ipynb)
    - PyGame simulator of a pendulum on a cart: [folder](courses/E375004/control2/)
-   - task: TBA
+   - task: [Stabilize inverted pendulum](tasks/control_2/controller.ipynb)
    - responsible person: michal.kuchar@fs.cvut.cz
 
 3. **Artificial Intelligence I.** (Week 21 April - 25 April)
