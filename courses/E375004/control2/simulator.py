@@ -25,7 +25,6 @@ t = 0.0
 
 # At the top
 pid = utils.PIDController(Kp=3, Ki=0.1, Kd=1)
-pid_phi = utils.PIDController(Kp=10, Ki=0.1, Kd=5)
 target_position = 5  # desired position of the cart
 
 
