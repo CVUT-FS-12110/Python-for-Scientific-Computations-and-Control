@@ -20,7 +20,7 @@ params = {
 px_per_meter = 100
 
 # --- Initial State: [x, x_dot, theta, theta_dot] ---
-state = [4.0, 0.0, 1*math.pi - 0.1, 0.0]  # x in meters
+state = [4.0, 0.0, 0.1, 0.0]  # x in meters
 t = 0.0
 
 # --- External force (interactive) ---
@@ -37,7 +37,7 @@ target_position = 5  # desired position of the cart
 pygame.init()
 width, height = 800, 600
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Crane with Load Simulation")
+pygame.display.set_caption("Pendulum on a Cart Simulation")
 clock = pygame.time.Clock()
 
 # --- Rendering Constants ---
@@ -58,9 +58,11 @@ while running:
         if event.type == pygame.QUIT:
             running = False
 
-    # --- Controls (applied force) ---
-    keys = pygame.key.get_pressed()
+    # --- PID Control ---
     applied_force = pid.update(target_position, state[0], dt)
+
+    # --- Controls (addition to applied force) ---
+    keys = pygame.key.get_pressed()
 
     
     if keys[pygame.K_LEFT]:
@@ -69,10 +71,8 @@ while running:
         applied_force += 10.0
 
 
-    def force_func(_t): return applied_force
-
     # --- Euler Simulation Step (meters) ---
-    state = utils.euler_step_cartpole(state, dt, t, force_func, x_ddot_func, theta_ddot_func, params)
+    state = utils.euler_step_cartpole(state, dt, t, applied_force, x_ddot_func, theta_ddot_func, params)
 
     # --- Unpack state (in meters/radians) ---
     cart_x_m, _, theta, _ = state

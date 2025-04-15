@@ -70,7 +70,7 @@ def initialize(cache_path="lambdified.pkl"):
     return x_ddot_func, theta_ddot_func
 
 
-def euler_step_cartpole(state, dt, t, external_force_func, x_ddot_func, theta_ddot_func, params):
+def euler_step_cartpole(state, dt, t, external_force, x_ddot_func, theta_ddot_func, params):
     """
     Perform one step of Euler integration for the cart-pole system.
 
@@ -88,15 +88,13 @@ def euler_step_cartpole(state, dt, t, external_force_func, x_ddot_func, theta_dd
     """
     # Unpack state
     x, x_dot, theta, theta_dot = state 
-
-    # Get external force 
-    F_ext = external_force_func(t) 
+ 
 
     # Compute acceleration of the cart
-    dx2 = x_ddot_func(x, x_dot, theta, theta_dot, F_ext, **params) 
+    dx2 = x_ddot_func(x, x_dot, theta, theta_dot, external_force , **params) 
 
     # Compute angular acceleration of the pole
-    dtheta2 = theta_ddot_func(x, x_dot, theta, theta_dot, F_ext, **params) 
+    dtheta2 = theta_ddot_func(x, x_dot, theta, theta_dot, external_force, **params) 
     
     # Euler integration step
     # Update x velocity and x position

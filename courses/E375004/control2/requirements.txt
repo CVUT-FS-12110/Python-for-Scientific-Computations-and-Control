@@ -1,0 +1,4 @@
+numpy
+pygame
+sympy
+cloudpickle
