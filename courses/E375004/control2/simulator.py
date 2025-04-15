@@ -23,10 +23,6 @@ px_per_meter = 100
 state = [4.0, 0.0, 0.1, 0.0]  # x in meters
 t = 0.0
 
-# --- External force (interactive) ---
-def external_force(time):
-    return 0.0  # gets overridden
-
 # At the top
 pid = utils.PIDController(Kp=3, Ki=0.1, Kd=1)
 pid_phi = utils.PIDController(Kp=10, Ki=0.1, Kd=5)
@@ -54,6 +50,7 @@ while running:
     dt = dt_ms / 1000
     t += dt
 
+    # --- quit if window is closed ---
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
