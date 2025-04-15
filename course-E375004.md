@@ -62,7 +62,7 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
    - Basics. Point mass and gravity: [notebook 1](courses/E375004/lagrange2eom/lagrangian_point_mass.ipynb)
    - Spring mass damper:  [notebook 2](courses/E375004/lagrange2eom/lagrangian_mass_spring_damper_gravity.ipynb)
    - Pendulum on a cart: [notebook 3](courses/E375004/lagrange2eom/lagrangian_cart_rigid_pendulum_with_force.ipynb)
-   - task: Just fill in the survey please: No task this week
+   - task: No task this week
    - responsible person: michal.kuchar@fs.cvut.cz
 
 
