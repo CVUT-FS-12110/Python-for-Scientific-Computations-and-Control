@@ -23,7 +23,7 @@ px_per_meter = 100
 state = [4.0, 0.0, 0.2, 0.0]  # x in meters
 t = 0.0
 
-# At the top
+# --- PID Controller Setup ---
 pid = utils.PIDController(Kp=3, Ki=0.5, Kd=2)
 target_position = 5  # desired position of the cart
 
