@@ -101,6 +101,10 @@ while running:
     pygame.draw.line(screen, (180, 180, 180), (cart_x_px, cart_y_px), (pendulum_x_px, pendulum_y_px), 4)
     pygame.draw.circle(screen, (200, 0, 0), (int(pendulum_x_px), int(pendulum_y_px)), bob_radius)
 
+    # --- Draw target position ---
+    target_x_px = target_position * px_per_meter
+    pygame.draw.line(screen, (200, 0, 0), (target_x_px, 0), (target_x_px, height), 1)
+
     # --- Flip Frame ---
     pygame.display.flip()
 
