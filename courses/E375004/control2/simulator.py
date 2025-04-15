@@ -45,9 +45,10 @@ origin_y_px = height // 2
 running = True
 while running:
     # --- Real-time dt ---
-    dt_ms = clock.tick(60)
-    dt = dt_ms / 1000
+    dt_ms = clock.tick(60) # 60 frames per second = 16.67 ms/frame
+    dt = dt_ms / 1000 # convert to seconds
     t += dt
+    print(dt)
 
     # --- quit if window is closed ---
     for event in pygame.event.get():
