@@ -6,7 +6,7 @@ import utils  # your file with symbolic model & euler step
 # --- Initialize Symbolic Model ---
 x_ddot_func, theta_ddot_func = utils.initialize()
 
-# --- System Parameters (meters, kg, N) ---
+# --- System Parameters (mass, damping etc...) ---
 params = {
     'm': 0.1,       # pendulum mass [kg]
     'M': 1.0,       # cart mass [kg]
@@ -48,7 +48,6 @@ while running:
     dt_ms = clock.tick(60) # 60 frames per second = 16.67 ms/frame
     dt = dt_ms / 1000 # convert to seconds
     t += dt
-    print(dt)
 
     # --- quit if window is closed ---
     for event in pygame.event.get():
