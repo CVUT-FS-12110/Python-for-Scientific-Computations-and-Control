@@ -7,10 +7,13 @@ import os
 
 def initialize(cache_path="lambdified.pkl"):
 
-    if os.path.exists(cache_path):
+    # --- Check if lambdified functions are already cached ---
+    # This is a simple mechanism to avoid recomputing the lambdified functions every time you start a pygame simulation.
+    # The calculated functions are saved to a file using cloudpickle at the end of the function.
+    if os.path.isfile(cache_path):
         with open(cache_path, 'rb') as f:
             funcs = cloudpickle.load(f)
-            print("✅ Loaded lambdified functions from cache.")
+            print("Loaded lambdified functions from cache.")
             return funcs['x_ddot'], funcs['theta_ddot']
 
 
@@ -61,7 +64,7 @@ def initialize(cache_path="lambdified.pkl"):
     x_ddot_func = lambdify(vars, x_ddot_expr)
     theta_ddot_func = lambdify(vars, theta_ddot_expr)
 
-    # --- Save for later ---
+    # --- Save lambdified function for later to avoid calling it every time ---
     with open(cache_path, 'wb') as f:
         cloudpickle.dump({'x_ddot': x_ddot_func, 'theta_ddot': theta_ddot_func}, f)
         print("💾 Lambdified functions saved to cache.")

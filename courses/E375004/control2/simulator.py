@@ -20,11 +20,11 @@ params = {
 px_per_meter = 100
 
 # --- Initial State: [x, x_dot, theta, theta_dot] ---
-state = [4.0, 0.0, 0.1, 0.0]  # x in meters
+state = [4.0, 0.0, 0.2, 0.0]  # x in meters
 t = 0.0
 
 # At the top
-pid = utils.PIDController(Kp=3, Ki=0.1, Kd=1)
+pid = utils.PIDController(Kp=6, Ki=1, Kd=10)
 target_position = 5  # desired position of the cart
 
 

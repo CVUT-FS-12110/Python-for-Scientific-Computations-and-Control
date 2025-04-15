@@ -1,7 +1,7 @@
-# Inverted Pendulum Simulator with PID Control
+# Pendulum Simulator with PID Control
 
 This project simulates a cart-pendulum system using Python and PyGame.  
-Your task is to stabilize the **inverted pendulum** using a **PID controller**.
+The provided PID controller leads a cart to desired position x. You can interactively add additional force using left and right keys.
 
 ---
 
