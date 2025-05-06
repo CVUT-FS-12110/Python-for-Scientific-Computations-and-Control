@@ -86,7 +86,7 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
 
 1. **Artificial Intelligence II.** (Week 5 May - 9 May)
 
-    - Source codes: [start-here](courses/E375004/ai_chapter2/ai_chapter2.md)
+    - Pytorch tutorial repository: [here](https://github.com/CVUT-FS-12110/pytorch-intro/tree/master)
     - responsible person: katerina.kobrlova@fs.cvut.cz
     - task: TBA
 
