@@ -88,7 +88,7 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
 
     - Pytorch tutorial repository: [here](https://github.com/CVUT-FS-12110/pytorch-intro/tree/master)
     - responsible person: katerina.kobrlova@fs.cvut.cz
-    - task: TBA
+    - task: [Design your own neural network](tasks/EN_fashion_mnist_assignment.ipynb)
 
 1. **Requests, database, API** (Week 12 May - 16 May)
 
