@@ -87,7 +87,9 @@ The classes are designed as workshops. The lecturer shows you a tutorial in the 
    - Source codes: [streamlit folder:](courses/E375004/streamlit)
    - responsible person: michal.kuchar@fs.cvut.cz
 
-<!-- 1. **Artificial Intelligence II.** (Week 4 May - 8 May)
+   Or
+
+   **Artificial Intelligence II.** 
    - Pytorch tutorial repository: [here](https://github.com/CVUT-FS-12110/pytorch-intro/tree/master)
    - responsible person: michal.kuchar@fs.cvut.cz
-   - (optional) task: [Design your own neural network](tasks/EN_fashion_mnist_assignment.ipynb) -->
+   - (optional) task: [Design your own neural network](tasks/EN_fashion_mnist_assignment.ipynb)
